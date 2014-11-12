@@ -1,4 +1,4 @@
-var last_update = 'Wednesday, 12 November, 2014 at 07:04';
+var last_update = 'Wednesday, 12 November, 2014 at 07:04 EST';
 var totals_data = 
 {
   "za": {
