@@ -1,14 +1,14 @@
-var last_update = 'Wednesday, 12 November, 2014 at 08:02 EST';
+var last_update = 'Thursday, 13 November, 2014 at 12:31 EST';
 var totals_data = 
 {
   "za": {
     "pcr": {
-      "total": 24,
-      "unique": 24
+      "total": 93,
+      "unique": 33
     },
     "extraction": {
-      "total": 73,
-      "unique": 73
+      "total": 121,
+      "unique": 82
     },
     "fims": {
       "total": 97,
@@ -504,25 +504,25 @@ var timeline_data =
       "start": "2014-11-07"
     },
     {
-      "content": "IBUNAM_LCM_001X (95)",
+      "content": "IBUNAM_LCM_001_X01 (95)",
       "group": "1",
       "id": "9",
       "start": "2014-11-11"
     },
     {
-      "content": "IBUNAM_LCM_002X (95)",
+      "content": "IBUNAM_LCM_002_X02 (95)",
       "group": "1",
       "id": "10",
       "start": "2014-11-11"
     },
     {
-      "content": "IBUNAM_LCM_003X (95)",
+      "content": "IBUNAM_LCM_003_X03 (95)",
       "group": "1",
       "id": "11",
       "start": "2014-11-11"
     },
     {
-      "content": "IBUNAM_LCM_004X (95)",
+      "content": "IBUNAM_LCM_004_X04 (95)",
       "group": "1",
       "id": "12",
       "start": "2014-11-11"
@@ -555,9 +555,33 @@ var timeline_data =
       "start": "2014-11-10"
     },
     {
+      "content": "SAIAB_MMW_001_PCR01_VF1T1_VR1T1 (6)",
+      "group": "2",
+      "id": "4",
+      "start": "2014-10-30"
+    },
+    {
+      "content": "SAIAB_MMW_001_PCR02_VF1T1_VR1T1 (48)",
+      "group": "2",
+      "id": "5",
+      "start": "2014-10-31"
+    },
+    {
+      "content": "SAIAB_MMW_001_PCR03_VF1T1_VR1T1 (15)",
+      "group": "2",
+      "id": "6",
+      "start": "2014-11-13"
+    },
+    {
+      "content": "SAIAB_MMW_001_X01 (48)",
+      "group": "1",
+      "id": "7",
+      "start": "2014-10-24"
+    },
+    {
       "content": "ACDB_ZES_001_X01 (49)",
       "group": "1",
-      "id": "4",
+      "id": "8",
       "start": "2014-11-10"
     }
   ]
