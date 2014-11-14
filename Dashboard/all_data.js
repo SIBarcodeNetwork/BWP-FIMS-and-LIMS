@@ -1,9 +1,9 @@
-var last_update = 'Thursday, 13 November, 2014 at 12:31 EST';
+var last_update = 'Friday, 14 November, 2014 at 10:57 EST';
 var totals_data = 
 {
   "za": {
     "pcr": {
-      "total": 93,
+      "total": 101,
       "unique": 33
     },
     "extraction": {
@@ -19,8 +19,8 @@ var totals_data =
       "unique": 0
     },
     "sequenced": {
-      "total": 0,
-      "unique": 0
+      "total": 24,
+      "unique": 7
     }
   },
   "mx": {
@@ -573,15 +573,27 @@ var timeline_data =
       "start": "2014-11-13"
     },
     {
+      "content": "SAIAB_MMW_001_PCR04_VF1T1_VR1T1 (8)",
+      "group": "2",
+      "id": "7",
+      "start": "2014-11-14"
+    },
+    {
+      "content": "SAIAB_MMW_001_PCR04_VF1T1_VR1T1 (8)",
+      "group": "3",
+      "id": "8",
+      "start": "2014-11-14"
+    },
+    {
       "content": "SAIAB_MMW_001_X01 (48)",
       "group": "1",
-      "id": "7",
-      "start": "2014-10-24"
+      "id": "9",
+      "start": "2014-10-23"
     },
     {
       "content": "ACDB_ZES_001_X01 (49)",
       "group": "1",
-      "id": "8",
+      "id": "10",
       "start": "2014-11-10"
     }
   ]
