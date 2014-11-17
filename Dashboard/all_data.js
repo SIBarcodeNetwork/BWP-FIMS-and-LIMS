@@ -1,4 +1,4 @@
-var last_update = 'Friday, 14 November, 2014 at 10:57 EST';
+var last_update = 'Monday, 17 November, 2014 at 09:57 EST';
 var totals_data = 
 {
   "za": {
@@ -507,13 +507,13 @@ var timeline_data =
       "content": "IBUNAM_LCM_001_X01 (95)",
       "group": "1",
       "id": "9",
-      "start": "2014-11-11"
+      "start": "2014-10-13"
     },
     {
       "content": "IBUNAM_LCM_002_X02 (95)",
       "group": "1",
       "id": "10",
-      "start": "2014-11-11"
+      "start": "2014-11-14"
     },
     {
       "content": "IBUNAM_LCM_003_X03 (95)",
