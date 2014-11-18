@@ -1,4 +1,4 @@
-var last_update = 'Monday, 17 November, 2014 at 09:57 EST';
+var last_update = 'Tuesday, 18 November, 2014 at 08:49 EST';
 var totals_data = 
 {
   "za": {
@@ -47,11 +47,11 @@ var totals_data =
   },
   "ke": {
     "pcr": {
-      "total": 381,
+      "total": 516,
       "unique": 276
     },
     "extraction": {
-      "total": 376,
+      "total": 511,
       "unique": 329
     },
     "fims": {
@@ -250,7 +250,7 @@ var timeline_data =
       "start": "2014-07-28"
     },
     {
-      "content": "NMK_EWM_002_P001_rbcla-F_rbclr590 (24)",
+      "content": "NMK_EWM_002_PCR01_rbcla-F_rbclr590 (24)",
       "group": "2",
       "id": "26",
       "start": "2014-07-30"
@@ -274,67 +274,67 @@ var timeline_data =
       "start": "2014-10-08"
     },
     {
-      "content": "NMK_EWM_002_P002_rbcla-F_rbclr590 (70)",
+      "content": "NMK_EWM_002_PCR02_rbcla-F_rbclr590 (70)",
       "group": "2",
       "id": "30",
       "start": "2014-08-25"
     },
     {
-      "content": "NMK_EWM_003_P001_rbcla-F_rbclr590 (48)",
+      "content": "NMK_EWM_003_PCR01_rbcla-F_rbclr590 (48)",
       "group": "2",
       "id": "31",
       "start": "2014-10-08"
     },
     {
-      "content": "NMK_EWM_003_P002_rbcla-F_rbclr590 (26)",
+      "content": "NMK_EWM_003_PCR02_rbcla-F_rbclr590 (26)",
       "group": "2",
       "id": "32",
       "start": "2014-10-21"
     },
     {
-      "content": "NMK_EWM_003_P002_rbcla-F_rbclr590 (26)",
+      "content": "NMK_EWM_003_PCR02_rbcla-F_rbclr590 (26)",
       "group": "3",
       "id": "33",
       "start": "2014-10-09"
     },
     {
-      "content": "NMK_EWM_003_P002_rbcla-F_rbclr590 (26)",
+      "content": "NMK_EWM_003_PCR02_rbcla-F_rbclr590 (26)",
       "group": "3",
       "id": "34",
       "start": "2014-10-09"
     },
     {
-      "content": "NMK_EWM_003_P002_rbcla-F_rbclr590 (26)",
+      "content": "NMK_EWM_003_PCR02_rbcla-F_rbclr590 (26)",
       "group": "3",
       "id": "35",
       "start": "2014-10-09"
     },
     {
-      "content": "NMK_EWM_003_P002_rbcla-F_rbclr590 (26)",
+      "content": "NMK_EWM_003_PCR02_rbcla-F_rbclr590 (26)",
       "group": "3",
       "id": "36",
       "start": "2014-10-22"
     },
     {
-      "content": "NMK_EWM_003_P002_rbcla-F_rbclr590 (26)",
+      "content": "NMK_EWM_003_PCR02_rbcla-F_rbclr590 (26)",
       "group": "3",
       "id": "37",
       "start": "2014-10-09"
     },
     {
-      "content": "NMK_EWM_003_P002_rbcla-F_rbclr590 (26)",
+      "content": "NMK_EWM_003_PCR02_rbcla-F_rbclr590 (26)",
       "group": "3",
       "id": "38",
       "start": "2014-10-09"
     },
     {
-      "content": "NMK_EWM_003_P002_rbcla-F_rbclr590 (26)",
+      "content": "NMK_EWM_003_PCR02_rbcla-F_rbclr590 (26)",
       "group": "3",
       "id": "39",
       "start": "2014-10-09"
     },
     {
-      "content": "NMK_EWM_003_P002_rbcla-F_rbclr590 (26)",
+      "content": "NMK_EWM_003_PCR02_rbcla-F_rbclr590 (26)",
       "group": "3",
       "id": "40",
       "start": "2014-10-09"
@@ -346,19 +346,19 @@ var timeline_data =
       "start": "2014-06-18"
     },
     {
-      "content": "NMK_EWM_002_iP001_ITS2F_ITS3R (5)",
+      "content": "NMK_EWM_002_iPCR01_ITS2F_ITS3R (5)",
       "group": "2",
       "id": "42",
       "start": "2014-06-14"
     },
     {
-      "content": "NMK_EWM_002_iP001_ITS2F_ITS3R (5)",
+      "content": "NMK_EWM_002_iPCR01_ITS2F_ITS3R (5)",
       "group": "3",
       "id": "43",
       "start": "2014-10-10"
     },
     {
-      "content": "NMK_EWM_002_iP001_ITS2F_ITS3R (5)",
+      "content": "NMK_EWM_002_iPCR01_ITS2F_ITS3R (5)",
       "group": "3",
       "id": "44",
       "start": "2014-10-10"
@@ -370,19 +370,19 @@ var timeline_data =
       "start": "2014-06-18"
     },
     {
-      "content": "NMK_EWM_003_iP001_ITS2F_ITS3R (10)",
+      "content": "NMK_EWM_003_iPCR01_ITS2F_ITS3R (10)",
       "group": "2",
       "id": "46",
       "start": "2014-07-14"
     },
     {
-      "content": "NMK_EWM_003_iP001_ITS2F_ITS3R (10)",
+      "content": "NMK_EWM_003_iPCR01_ITS2F_ITS3R (10)",
       "group": "3",
       "id": "47",
       "start": "2014-10-10"
     },
     {
-      "content": "NMK_EWM_003_iP001_ITS2F_ITS3R (10)",
+      "content": "NMK_EWM_003_iPCR01_ITS2F_ITS3R (10)",
       "group": "3",
       "id": "48",
       "start": "2014-10-10"
@@ -394,19 +394,19 @@ var timeline_data =
       "start": "2014-10-22"
     },
     {
-      "content": "NMK_EWM_002_iP002_ITS2F_ITS3R (24)",
+      "content": "NMK_EWM_002_iPCR02_ITS2F_ITS3R (24)",
       "group": "2",
       "id": "50",
       "start": "2014-07-14"
     },
     {
-      "content": "NMK_EWM_002_iP002_ITS2F_ITS3R (24)",
+      "content": "NMK_EWM_002_iPCR02_ITS2F_ITS3R (24)",
       "group": "3",
       "id": "51",
       "start": "2014-10-13"
     },
     {
-      "content": "NMK_EWM_002_iP002_ITS2F_ITS3R (24)",
+      "content": "NMK_EWM_002_iPCR02_ITS2F_ITS3R (24)",
       "group": "3",
       "id": "52",
       "start": "2014-10-13"
@@ -418,19 +418,19 @@ var timeline_data =
       "start": "2014-06-18"
     },
     {
-      "content": "NMK_EWM_003_iP002_ITS2F_ITS3R (10)",
+      "content": "NMK_EWM_003_iPCR02_ITS2F_ITS3R (10)",
       "group": "2",
       "id": "54",
       "start": "2014-10-03"
     },
     {
-      "content": "NMK_EWM_003_iP002_ITS2F_ITS3R (10)",
+      "content": "NMK_EWM_003_iPCR02_ITS2F_ITS3R (10)",
       "group": "3",
       "id": "55",
       "start": "2014-10-15"
     },
     {
-      "content": "NMK_EWM_003_iP002_ITS2F_ITS3R (10)",
+      "content": "NMK_EWM_003_iPCR02_ITS2F_ITS3R (10)",
       "group": "3",
       "id": "56",
       "start": "2014-10-15"
@@ -446,6 +446,54 @@ var timeline_data =
       "group": "2",
       "id": "58",
       "start": "2014-07-14"
+    },
+    {
+      "content": "NMK_EWM_003_X03 (6)",
+      "group": "1",
+      "id": "59",
+      "start": "2014-11-04"
+    },
+    {
+      "content": "NMK_EWM_003_PCR03_Rbcla-F_RbclR590 (6)",
+      "group": "2",
+      "id": "60",
+      "start": "2014-11-04"
+    },
+    {
+      "content": "NMK_EWM_002_X03 (4)",
+      "group": "1",
+      "id": "61",
+      "start": "2014-11-04"
+    },
+    {
+      "content": "NMK_EWM_002_PCR03_Rbcla-F_RbclR590 (4)",
+      "group": "2",
+      "id": "62",
+      "start": "2014-11-04"
+    },
+    {
+      "content": "NMK_EWM_002_iX03 (60)",
+      "group": "1",
+      "id": "63",
+      "start": "2014-11-04"
+    },
+    {
+      "content": "NMK_EWM_002_iPCR03_ITS2F_ITS3R (60)",
+      "group": "2",
+      "id": "64",
+      "start": "2014-11-04"
+    },
+    {
+      "content": "NMK_EWM_003_iX03 (65)",
+      "group": "1",
+      "id": "65",
+      "start": "2014-11-04"
+    },
+    {
+      "content": "NMK_EWM_003_iPCR03_ITS2F_ITS3R (65)",
+      "group": "2",
+      "id": "66",
+      "start": "2014-11-04"
     }
   ],
   "mx": [
