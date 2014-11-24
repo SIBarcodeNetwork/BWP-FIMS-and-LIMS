@@ -1,4 +1,4 @@
-var last_update = 'Thursday, 20 November, 2014 at 08:41 EST';
+var last_update = 'Monday, 24 November, 2014 at 11:32 EST';
 var totals_data = 
 {
   "za": {
@@ -25,16 +25,16 @@ var totals_data =
   },
   "mx": {
     "pcr": {
-      "total": 0,
-      "unique": 0
+      "total": 95,
+      "unique": 95
     },
     "extraction": {
       "total": 380,
       "unique": 380
     },
     "fims": {
-      "total": 766,
-      "unique": 766
+      "total": 840,
+      "unique": 840
     },
     "assembled": {
       "total": 0,
@@ -47,23 +47,23 @@ var totals_data =
   },
   "ke": {
     "pcr": {
-      "total": 595,
+      "total": 587,
       "unique": 327
     },
     "extraction": {
-      "total": 528,
+      "total": 520,
       "unique": 329
     },
     "fims": {
-      "total": 720,
-      "unique": 720
+      "total": 685,
+      "unique": 685
     },
     "assembled": {
       "total": 0,
       "unique": 0
     },
     "sequenced": {
-      "total": 984,
+      "total": 968,
       "unique": 307
     }
   },
@@ -118,7 +118,7 @@ var timeline_data =
       "start": "2014-08-13"
     },
     {
-      "content": "NMK_GK_001 (58)",
+      "content": "NMK_GK_001 (23)",
       "group": "0",
       "id": "4",
       "start": "2014-11-05"
@@ -596,103 +596,91 @@ var timeline_data =
       "group": "3",
       "id": "83",
       "start": "2014-10-17"
-    },
-    {
-      "content": "NMK_BWPK_001_X01 (8)",
-      "group": "1",
-      "id": "84",
-      "start": "2014-11-20"
-    },
-    {
-      "content": "NMK_BWPK_001_PCR01_rbcla-f_rbclr590 (8)",
-      "group": "2",
-      "id": "85",
-      "start": "2014-11-20"
-    },
-    {
-      "content": "NMK_BWPK_001_Seq01_rbcla-f (8)",
-      "group": "3",
-      "id": "86",
-      "start": "2014-11-20"
-    },
-    {
-      "content": "NMK_BWPK_001_Seq01_rbclr590 (8)",
-      "group": "3",
-      "id": "87",
-      "start": "2014-11-20"
     }
   ],
   "mx": [
     {
-      "content": "ECOCH-AMA-001 (48)",
+      "content": "CIBNOR_PCC_001 (74)",
       "group": "0",
       "id": "0",
+      "start": "2014-11-21"
+    },
+    {
+      "content": "ECOCH-AMA-001 (48)",
+      "group": "0",
+      "id": "1",
       "start": "2014-11-19"
     },
     {
       "content": "IBUNAM_AJM_001 (96)",
       "group": "0",
-      "id": "1",
+      "id": "2",
       "start": "2014-10-14"
     },
     {
       "content": "IBUNAM_AJM_002 (96)",
       "group": "0",
-      "id": "2",
+      "id": "3",
       "start": "2014-10-27"
     },
     {
       "content": "IBUNAM_AJM_003 (146)",
       "group": "0",
-      "id": "3",
+      "id": "4",
       "start": "2014-10-27"
     },
     {
       "content": "IBUNAM_LCM_001 (95)",
       "group": "0",
-      "id": "4",
+      "id": "5",
       "start": "2014-08-26"
     },
     {
       "content": "IBUNAM_LCM_002 (95)",
       "group": "0",
-      "id": "5",
+      "id": "6",
       "start": "2014-09-03"
     },
     {
       "content": "IBUNAM_LCM_003 (95)",
       "group": "0",
-      "id": "6",
+      "id": "7",
       "start": "2014-09-08"
     },
     {
       "content": "IBUNAM_LCM_004 (95)",
       "group": "0",
-      "id": "7",
+      "id": "8",
       "start": "2014-09-26"
+    },
+    {
+      "content": "IBUNAM_LCM_001_PCR01_3FKim_iRKIM (95)",
+      "group": "2",
+      "id": "9",
+      "start": "2014-11-20"
     },
     {
       "content": "IBUNAM_LCM_001_X01 (95)",
       "group": "1",
-      "id": "8",
+      "id": "10",
       "start": "2014-10-13"
     },
     {
       "content": "IBUNAM_LCM_002_X02 (95)",
       "group": "1",
-      "id": "9",
+      "id": "11",
       "start": "2014-11-14"
     },
     {
       "content": "IBUNAM_LCM_003_X03 (95)",
       "group": "1",
-      "id": "10",
+      "id": "12",
       "start": "2014-11-11"
     },
     {
       "content": "IBUNAM_LCM_004_X04 (95)",
       "group": "1",
-      "id": "11",
+      "id": "13",
       "start": "2014-11-11"
     }
   ],
