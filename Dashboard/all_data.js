@@ -1,14 +1,14 @@
-var last_update = 'Tuesday, 25 November, 2014 at 09:13 EST';
+var last_update = 'Wednesday, 26 November, 2014 at 06:51 EST';
 var totals_data = 
 {
   "za": {
     "pcr": {
-      "total": 101,
-      "unique": 33
+      "total": 77,
+      "unique": 9
     },
     "extraction": {
-      "total": 121,
-      "unique": 82
+      "total": 97,
+      "unique": 58
     },
     "fims": {
       "total": 97,
@@ -25,12 +25,12 @@ var totals_data =
   },
   "mx": {
     "pcr": {
-      "total": 96,
-      "unique": 96
+      "total": 288,
+      "unique": 192
     },
     "extraction": {
-      "total": 476,
-      "unique": 476
+      "total": 550,
+      "unique": 550
     },
     "fims": {
       "total": 840,
@@ -660,34 +660,52 @@ var timeline_data =
       "start": "2014-11-24"
     },
     {
-      "content": "IBUNAM_LCM_001_PCR01_3FKim_iRKIM (96)",
+      "content": "IBUNAM_AJM_001_PCR01_LCO1490_HCO2198 (96)",
       "group": "2",
       "id": "10",
+      "start": "2014-11-19"
+    },
+    {
+      "content": "IBUNAM_LCM_001_PCR01_3FKim_1RKIM (96)",
+      "group": "2",
+      "id": "11",
       "start": "2014-11-20"
+    },
+    {
+      "content": "IBUNAM_LCM_001_PCR01_rbcLA1F_rbcLAR (96)",
+      "group": "2",
+      "id": "12",
+      "start": "2014-11-21"
     },
     {
       "content": "IBUNAM_LCM_001_X01 (95)",
       "group": "1",
-      "id": "11",
+      "id": "13",
       "start": "2014-10-13"
     },
     {
       "content": "IBUNAM_LCM_002_X02 (95)",
       "group": "1",
-      "id": "12",
+      "id": "14",
       "start": "2014-11-14"
     },
     {
       "content": "IBUNAM_LCM_003_X03 (95)",
       "group": "1",
-      "id": "13",
+      "id": "15",
       "start": "2014-11-11"
     },
     {
       "content": "IBUNAM_LCM_004_X04 (95)",
       "group": "1",
-      "id": "14",
+      "id": "16",
       "start": "2014-11-11"
+    },
+    {
+      "content": "CIBNOR_PCC_001 (74)",
+      "group": "1",
+      "id": "17",
+      "start": "2014-11-25"
     }
   ],
   "ng": [],
@@ -705,57 +723,45 @@ var timeline_data =
       "start": "2014-11-12"
     },
     {
-      "content": "NZG_MR_TR01_COI (24)",
-      "group": "2",
-      "id": "2",
-      "start": "2014-11-10"
-    },
-    {
-      "content": "NZG_MR_TR01_X01 (24)",
-      "group": "1",
-      "id": "3",
-      "start": "2014-11-10"
-    },
-    {
       "content": "SAIAB_MMW_001_PCR01_VF1T1_VR1T1 (6)",
       "group": "2",
-      "id": "4",
+      "id": "2",
       "start": "2014-10-30"
     },
     {
       "content": "SAIAB_MMW_001_PCR02_VF1T1_VR1T1 (48)",
       "group": "2",
-      "id": "5",
+      "id": "3",
       "start": "2014-10-31"
     },
     {
       "content": "SAIAB_MMW_001_PCR03_VF1T1_VR1T1 (15)",
       "group": "2",
-      "id": "6",
+      "id": "4",
       "start": "2014-11-13"
     },
     {
       "content": "SAIAB_MMW_001_PCR04_VF1T1_VR1T1 (8)",
       "group": "2",
-      "id": "7",
+      "id": "5",
       "start": "2014-11-14"
     },
     {
       "content": "SAIAB_MMW_001_Seq01_M13(-21)_F (24)",
       "group": "3",
-      "id": "8",
+      "id": "6",
       "start": "2014-11-18"
     },
     {
       "content": "SAIAB_MMW_001_X01 (48)",
       "group": "1",
-      "id": "9",
+      "id": "7",
       "start": "2014-10-23"
     },
     {
       "content": "ACDB_ZES_001_X01 (49)",
       "group": "1",
-      "id": "10",
+      "id": "8",
       "start": "2014-11-10"
     }
   ]
