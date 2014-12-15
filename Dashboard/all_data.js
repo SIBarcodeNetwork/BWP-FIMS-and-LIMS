@@ -1,4 +1,4 @@
-var last_update = 'Friday, 12 December, 2014 at 09:37 EST';
+var last_update = 'Monday, 15 December, 2014 at 09:22 EST';
 var totals_data = 
 {
   "mx": {
@@ -881,7 +881,7 @@ var timeline_data =
       "content": "IBUNAM_LCM_001_Seq02_rbcLAR (41)",
       "group": "3",
       "id": "50",
-      "start": "2014-12-10"
+      "start": "2014-12-09"
     },
     {
       "content": "IBUNAM_AJM_002_Seq01_VF1d_t1_F (96)",
@@ -908,28 +908,28 @@ var timeline_data =
       "start": "2014-12-09"
     },
     {
-      "content": "IBUNAM_LCM_002_Seq05_3FKim (28)",
+      "content": "IBUNAM_LCM_002_Seq05_3FKim-r (28)",
       "group": "3",
       "id": "55",
-      "start": "2014-12-09"
+      "start": "2014-12-11"
     },
     {
       "content": "IBUNAM_LCM_002_Seq06_1RKIM (28)",
       "group": "3",
       "id": "56",
-      "start": "2014-12-09"
+      "start": "2014-12-11"
     },
     {
       "content": "IBUNAM_LCM_002_Seq07_rbcL1F (44)",
       "group": "3",
       "id": "57",
-      "start": "2014-12-09"
+      "start": "2014-12-11"
     },
     {
       "content": "IBUNAM_LCM_002_Seq08_rbcLAR (44)",
       "group": "3",
       "id": "58",
-      "start": "2014-12-09"
+      "start": "2014-12-11"
     },
     {
       "content": "IBUNAM_AJM_001_Seq01_HCO2198_R (96)",
