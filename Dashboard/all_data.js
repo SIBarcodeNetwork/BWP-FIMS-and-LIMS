@@ -1,4 +1,4 @@
-var last_update = 'Wednesday, 17 December, 2014 at 07:12 EST';
+var last_update = 'Thursday, 18 December, 2014 at 08:59 EST';
 var totals_data = 
 {
   "mx": {
@@ -33,8 +33,8 @@ var totals_data =
       "unique": 329
     },
     "fims": {
-      "total": 685,
-      "unique": 685
+      "total": 551,
+      "unique": 551
     },
     "assembled": {
       "total": 0,
@@ -47,8 +47,8 @@ var totals_data =
   },
   "za": {
     "pcr": {
-      "total": 421,
-      "unique": 205
+      "total": 453,
+      "unique": 221
     },
     "extraction": {
       "total": 353,
@@ -63,8 +63,8 @@ var totals_data =
       "unique": 0
     },
     "sequenced": {
-      "total": 601,
-      "unique": 162
+      "total": 645,
+      "unique": 178
     }
   }
 };
@@ -114,7 +114,7 @@ var timeline_data =
       "start": "2014-11-11"
     },
     {
-      "content": "NMK_JSK_001 (157)",
+      "content": "NMK_JSK_001 (23)",
       "group": "0",
       "id": "7",
       "start": "2014-11-05"
@@ -1468,135 +1468,171 @@ var timeline_data =
       "start": "2014-12-13"
     },
     {
-      "content": "SAIAB_MMW_001_PCR01_VF1T1_VR1T1 (6)",
+      "content": "NZG_MR_007_COI (16)",
       "group": "2",
       "id": "73",
+      "start": "2014-12-15"
+    },
+    {
+      "content": "NZG_MR_007_CytB (16)",
+      "group": "2",
+      "id": "74",
+      "start": "2014-12-15"
+    },
+    {
+      "content": "NZG_MR_007_BirdF1 (7)",
+      "group": "3",
+      "id": "75",
+      "start": "2014-12-17"
+    },
+    {
+      "content": "NZG_MR_007_BirdR1 (7)",
+      "group": "3",
+      "id": "76",
+      "start": "2014-12-17"
+    },
+    {
+      "content": "NZG_MR_007_CytB1 (15)",
+      "group": "3",
+      "id": "77",
+      "start": "2014-12-17"
+    },
+    {
+      "content": "NZG_MR_007_CytB2 (15)",
+      "group": "3",
+      "id": "78",
+      "start": "2014-12-17"
+    },
+    {
+      "content": "SAIAB_MMW_001_PCR01_VF1T1_VR1T1 (6)",
+      "group": "2",
+      "id": "79",
       "start": "2014-10-30"
     },
     {
       "content": "SAIAB_MMW_001_PCR02_VF1T1_VR1T1 (48)",
       "group": "2",
-      "id": "74",
+      "id": "80",
       "start": "2014-10-31"
     },
     {
       "content": "SAIAB_MMW_001_PCR03_VF1T1_VR1T1 (15)",
       "group": "2",
-      "id": "75",
+      "id": "81",
       "start": "2014-11-13"
     },
     {
       "content": "SAIAB_MMW_001_PCR04_VF1T1_VR1T1 (8)",
       "group": "2",
-      "id": "76",
+      "id": "82",
       "start": "2014-11-14"
     },
     {
       "content": "SAIAB_MMW_001_Seq01_M13(-21)_F (24)",
       "group": "3",
-      "id": "77",
+      "id": "83",
       "start": "2014-11-18"
     },
     {
       "content": "SAIAB_MMW_001_Seq02_M13(-21)_F (17)",
       "group": "3",
-      "id": "78",
+      "id": "84",
       "start": "2014-11-28"
     },
     {
       "content": "SAIAB_MMW_001_Seq03_M13(-27)_R (48)",
       "group": "3",
-      "id": "79",
+      "id": "85",
       "start": "2014-12-04"
     },
     {
       "content": "SAIAB_MMW_001_X01 (48)",
       "group": "1",
-      "id": "80",
+      "id": "86",
       "start": "2014-10-23"
     },
     {
       "content": "ACDB_ZES_001_X01 (49)",
       "group": "1",
-      "id": "81",
+      "id": "87",
       "start": "2014-11-10"
     },
     {
       "content": "ACDB_ZES_001_X02_matK_Gym-F-R (49)",
       "group": "2",
-      "id": "82",
+      "id": "88",
       "start": "2014-12-04"
     },
     {
       "content": "ACDB_ZES_001_X02_rbcLa-F-R (49)",
       "group": "2",
-      "id": "83",
+      "id": "89",
       "start": "2014-12-04"
     },
     {
       "content": "ACDB_ZES_001_X03_matK_Gymn-M13F (49)",
       "group": "3",
-      "id": "84",
+      "id": "90",
       "start": "2014-12-04"
     },
     {
       "content": "ACDB_ZES_001_X03_matK_Gymn-M13R (49)",
       "group": "3",
-      "id": "85",
+      "id": "91",
       "start": "2014-12-04"
     },
     {
       "content": "ACDB_ZES_001_X03_rbcLa-M13F (49)",
       "group": "3",
-      "id": "86",
+      "id": "92",
       "start": "2014-12-04"
     },
     {
       "content": "ACDB_ZES_001_X03_rbcLa-M13R (49)",
       "group": "3",
-      "id": "87",
+      "id": "93",
       "start": "2014-12-04"
     },
     {
       "content": "ACDB_ZES_002_X01 (19)",
       "group": "1",
-      "id": "88",
+      "id": "94",
       "start": "2014-12-04"
     },
     {
       "content": "ACDB_ZES_002_X02_matK_Gym-F-R (19)",
       "group": "2",
-      "id": "89",
+      "id": "95",
       "start": "2014-12-05"
     },
     {
       "content": "ACDB_ZES_002_X02_rbcLa-F-R (19)",
       "group": "2",
-      "id": "90",
+      "id": "96",
       "start": "2014-12-05"
     },
     {
       "content": "ACDB_ZES_002_X03_matK-M13F (16)",
       "group": "3",
-      "id": "91",
+      "id": "97",
       "start": "2014-12-05"
     },
     {
       "content": "ACDB_ZES_002_X03_matK-M13R (16)",
       "group": "3",
-      "id": "92",
+      "id": "98",
       "start": "2014-12-05"
     },
     {
       "content": "ACDB_ZES_002_X03_rbcLa-M13F (17)",
       "group": "3",
-      "id": "93",
+      "id": "99",
       "start": "2014-12-05"
     },
     {
       "content": "ACDB_ZES_002_X03_rbcLa-M13R (17)",
       "group": "3",
-      "id": "94",
+      "id": "100",
       "start": "2014-12-05"
     }
   ]
