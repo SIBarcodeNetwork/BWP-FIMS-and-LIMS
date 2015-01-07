@@ -1,4 +1,4 @@
-var last_update = 'Tuesday, 06 January, 2015 at 09:06 EST';
+var last_update = 'Wednesday, 07 January, 2015 at 06:40 EST';
 var totals_data = 
 {
   "mx": {
@@ -25,7 +25,7 @@ var totals_data =
   },
   "ke": {
     "pcr": {
-      "total": 727,
+      "total": 750,
       "unique": 419
     },
     "extraction": {
@@ -640,6 +640,12 @@ var timeline_data =
       "group": "1",
       "id": "94",
       "start": "2015-01-06"
+    },
+    {
+      "content": "NMK_JSK_002_PCR01_ITS2F_ITS3R (23)",
+      "group": "2",
+      "id": "95",
+      "start": "2014-12-18"
     }
   ],
   "mx": [
