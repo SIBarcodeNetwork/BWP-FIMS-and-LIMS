@@ -1,10 +1,10 @@
-var last_update = 'Friday, 09 January, 2015 at 08:29 EST';
+var last_update = 'Monday, 12 January, 2015 at 08:52 EST';
 var totals_data = 
 {
   "mx": {
     "pcr": {
-      "total": 1572,
-      "unique": 742
+      "total": 1953,
+      "unique": 932
     },
     "extraction": {
       "total": 931,
@@ -1064,39 +1064,63 @@ var timeline_data =
       "start": "2014-11-14"
     },
     {
+      "content": "IBUNAM_LCM_003_PCR05_3FKim_1RKIM (95)",
+      "group": "2",
+      "id": "69",
+      "start": "2015-01-09"
+    },
+    {
+      "content": "IBUNAM_LCM_003_PCR06_rbcLA1F_rbcLAR (96)",
+      "group": "2",
+      "id": "70",
+      "start": "2015-01-12"
+    },
+    {
       "content": "IBUNAM_LCM_003_X01 (95)",
       "group": "1",
-      "id": "69",
+      "id": "71",
       "start": "2014-11-11"
+    },
+    {
+      "content": "IBUNAM_LCM_004_PCR06_3FKim_1RKIM (95)",
+      "group": "2",
+      "id": "72",
+      "start": "2015-01-09"
+    },
+    {
+      "content": "IBUNAM_LCM_004_PCR07_rbcLA1F_rbcLAR (95)",
+      "group": "2",
+      "id": "73",
+      "start": "2015-01-09"
     },
     {
       "content": "IBUNAM_LCM_004_X01 (95)",
       "group": "1",
-      "id": "70",
+      "id": "74",
       "start": "2014-11-11"
     },
     {
       "content": "CIBNOR_PCC_001_PCR01_CVF1LFt1_CVR1LRt1 (74)",
       "group": "2",
-      "id": "71",
+      "id": "75",
       "start": "2014-12-01"
     },
     {
       "content": "CIBNOR_PCC_001_Seq01_CVF1LFt1_2 (74)",
       "group": "3",
-      "id": "72",
+      "id": "76",
       "start": "2014-12-05"
     },
     {
       "content": "CIBNOR_PCC_001_Seq01_CVR1LRt1_2 (74)",
       "group": "3",
-      "id": "73",
+      "id": "77",
       "start": "2014-12-05"
     },
     {
       "content": "CIBNOR_PCC_001_X01 (74)",
       "group": "1",
-      "id": "74",
+      "id": "78",
       "start": "2014-11-25"
     }
   ],
