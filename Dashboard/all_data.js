@@ -1,9 +1,9 @@
-var last_update = 'Monday, 12 January, 2015 at 08:52 EST';
+var last_update = 'Tuesday, 13 January, 2015 at 08:18 EST';
 var totals_data = 
 {
   "mx": {
     "pcr": {
-      "total": 1953,
+      "total": 1954,
       "unique": 932
     },
     "extraction": {
@@ -1088,10 +1088,10 @@ var timeline_data =
       "start": "2015-01-09"
     },
     {
-      "content": "IBUNAM_LCM_004_PCR07_rbcLA1F_rbcLAR (95)",
+      "content": "IBUNAM_LCM_004_PCR07_rbcLA1F_rbcLAR (96)",
       "group": "2",
       "id": "73",
-      "start": "2015-01-09"
+      "start": "2015-01-12"
     },
     {
       "content": "IBUNAM_LCM_004_X01 (95)",
