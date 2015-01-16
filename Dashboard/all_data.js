@@ -1,9 +1,9 @@
-var last_update = 'Wednesday, 14 January, 2015 at 06:23 EST';
+var last_update = 'Friday, 16 January, 2015 at 15:28 EST';
 var totals_data = 
 {
   "mx": {
     "pcr": {
-      "total": 1954,
+      "total": 1956,
       "unique": 932
     },
     "extraction": {
@@ -1064,10 +1064,10 @@ var timeline_data =
       "start": "2014-11-14"
     },
     {
-      "content": "IBUNAM_LCM_003_PCR05_3FKim_1RKIM (95)",
+      "content": "IBUNAM_LCM_003_PCR05_3FKim_1RKIM (96)",
       "group": "2",
       "id": "69",
-      "start": "2015-01-09"
+      "start": "2015-01-14"
     },
     {
       "content": "IBUNAM_LCM_003_PCR06_rbcLA1F_rbcLAR (96)",
@@ -1082,7 +1082,7 @@ var timeline_data =
       "start": "2014-11-11"
     },
     {
-      "content": "IBUNAM_LCM_004_PCR06_3FKim_1RKIM (95)",
+      "content": "IBUNAM_LCM_004_PCR06_3FKim_1RKIM (96)",
       "group": "2",
       "id": "72",
       "start": "2015-01-09"
@@ -1342,13 +1342,13 @@ var timeline_data =
       "start": "2014-11-28"
     },
     {
-      "content": "NZG_MR_002 (16)",
+      "content": "NZG_MR_002_X01 (16)",
       "group": "1",
       "id": "36",
       "start": "2014-12-02"
     },
     {
-      "content": "NZG_MR_003 (16)",
+      "content": "NZG_MR_003_X01 (16)",
       "group": "1",
       "id": "37",
       "start": "2014-12-02"
