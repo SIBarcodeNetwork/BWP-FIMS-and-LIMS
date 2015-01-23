@@ -1,4 +1,4 @@
-var last_update = 'Thursday, 22 January, 2015 at 08:43 EST';
+var last_update = 'Friday, 23 January, 2015 at 07:56 EST';
 var totals_data = 
 {
   "mx": {
