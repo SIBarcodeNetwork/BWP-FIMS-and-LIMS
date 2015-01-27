@@ -1,4 +1,4 @@
-var last_update = 'Monday, 26 January, 2015 at 07:51 EST';
+var last_update = 'Tuesday, 27 January, 2015 at 09:27 EST';
 var totals_data = 
 {
   "mx": {
@@ -25,8 +25,8 @@ var totals_data =
   },
   "ke": {
     "pcr": {
-      "total": 750,
-      "unique": 419
+      "total": 786,
+      "unique": 437
     },
     "extraction": {
       "total": 632,
@@ -639,13 +639,25 @@ var timeline_data =
       "content": "NMK_JSK_007_X01 (18)",
       "group": "1",
       "id": "94",
-      "start": "2015-01-06"
+      "start": "2014-12-17"
     },
     {
       "content": "NMK_JSK_002_PCR01_ITS2F_ITS3R (23)",
       "group": "2",
       "id": "95",
       "start": "2014-12-18"
+    },
+    {
+      "content": "NMK_JSK_007_PCR01_rbcLaF_rbcLr590 (18)",
+      "group": "2",
+      "id": "96",
+      "start": "2015-01-09"
+    },
+    {
+      "content": "NMK_JSK_007_PCR01_ITS2F_ITS3R (18)",
+      "group": "2",
+      "id": "97",
+      "start": "2015-01-09"
     }
   ],
   "mx": [
