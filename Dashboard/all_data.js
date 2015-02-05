@@ -1,4 +1,4 @@
-var last_update = 'Wednesday, 04 February, 2015 at 06:36 EST';
+var last_update = 'Thursday, 05 February, 2015 at 09:16 EST';
 var totals_data = 
 {
   "mx": {
@@ -29,8 +29,8 @@ var totals_data =
       "unique": 501
     },
     "extraction": {
-      "total": 696,
-      "unique": 503
+      "total": 719,
+      "unique": 526
     },
     "fims": {
       "total": 551,
@@ -910,6 +910,12 @@ var timeline_data =
       "group": "3",
       "id": "139",
       "start": "2015-02-02"
+    },
+    {
+      "content": "NMK_GK_001_X01 (23)",
+      "group": "1",
+      "id": "140",
+      "start": "2014-12-20"
     }
   ],
   "mx": [
