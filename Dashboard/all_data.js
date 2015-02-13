@@ -1,9 +1,9 @@
-var last_update = 'Thursday, 12 February, 2015 at 08:59 EST';
+var last_update = 'Friday, 13 February, 2015 at 08:37 EST';
 var totals_data = 
 {
   "mx": {
     "pcr": {
-      "total": 2835,
+      "total": 2931,
       "unique": 1122
     },
     "extraction": {
@@ -47,7 +47,7 @@ var totals_data =
   },
   "za": {
     "pcr": {
-      "total": 1022,
+      "total": 1070,
       "unique": 489
     },
     "extraction": {
@@ -63,7 +63,7 @@ var totals_data =
       "unique": 0
     },
     "sequenced": {
-      "total": 1929,
+      "total": 1965,
       "unique": 475
     }
   }
@@ -1562,93 +1562,99 @@ var timeline_data =
       "start": "2015-01-30"
     },
     {
-      "content": "IBUNAM_LCM_005_Seq28_1RKim (86)",
+      "content": "IBUNAM_LCM_006_Seq29_3FKim (71)",
       "group": "3",
       "id": "104",
       "start": "2015-01-30"
     },
     {
-      "content": "IBUNAM_LCM_006_Seq29_3FKim (71)",
+      "content": "IBUNAM_LCM_006_Seq30_1RKim (71)",
       "group": "3",
       "id": "105",
       "start": "2015-01-30"
     },
     {
-      "content": "IBUNAM_LCM_006_Seq30_1RKim (71)",
-      "group": "3",
-      "id": "106",
-      "start": "2015-01-30"
-    },
-    {
       "content": "IBUNAM_LCM_006_PCR09_rbcLA1F_rbcLAR (96)",
       "group": "2",
-      "id": "107",
+      "id": "106",
       "start": "2015-02-03"
     },
     {
       "content": "IBUNAM_LCM_004_Seq20_rbcLAR (76)",
       "group": "3",
-      "id": "108",
+      "id": "107",
       "start": "2015-01-29"
     },
     {
       "content": "IBUNAM_LCM_004_Seq19_rbcLA1F (76)",
       "group": "3",
-      "id": "109",
+      "id": "108",
       "start": "2015-01-29"
     },
     {
       "content": "IBUNAM_LCM_003_Seq13_3FKim (59)",
       "group": "3",
-      "id": "110",
+      "id": "109",
       "start": "2015-01-28"
     },
     {
       "content": "IBUNAM_LCM_003_Seq14_1RKIM (59)",
       "group": "3",
-      "id": "111",
+      "id": "110",
       "start": "2015-01-28"
     },
     {
-      "content": "IBUNAM_LCM_005_ITS5F_ITS4R (96)",
+      "content": "IBUNAM_LCM_005_PCR05_ITS5F_ITS4R (96)",
       "group": "2",
-      "id": "112",
+      "id": "111",
       "start": "2015-02-05"
     },
     {
       "content": "IBUNAM_LCM_006_Seq31_rbcL1F (69)",
       "group": "3",
-      "id": "113",
+      "id": "112",
       "start": "2015-02-10"
     },
     {
       "content": "IBUNAM_LCM_006_Seq32_rbcLAR (69)",
       "group": "3",
-      "id": "114",
+      "id": "113",
       "start": "2015-02-10"
+    },
+    {
+      "content": "IBUNAM_LCM_005_Seq28_1RKim (86)",
+      "group": "3",
+      "id": "114",
+      "start": "2015-02-11"
+    },
+    {
+      "content": "IBUNAM_LCM_006_PCR06_ITS5F_ITS4R (96)",
+      "group": "2",
+      "id": "115",
+      "start": "2015-02-12"
     },
     {
       "content": "CIBNOR_PCC_001_PCR01_CVF1LFt1_CVR1LRt1 (74)",
       "group": "2",
-      "id": "115",
+      "id": "116",
       "start": "2014-12-01"
     },
     {
       "content": "CIBNOR_PCC_001_Seq01_CVF1LFt1_2 (74)",
       "group": "3",
-      "id": "116",
+      "id": "117",
       "start": "2014-12-05"
     },
     {
       "content": "CIBNOR_PCC_001_Seq01_CVR1LRt1_2 (74)",
       "group": "3",
-      "id": "117",
+      "id": "118",
       "start": "2014-12-05"
     },
     {
       "content": "CIBNOR_PCC_001_X01 (74)",
       "group": "1",
-      "id": "118",
+      "id": "119",
       "start": "2014-11-25"
     }
   ],
@@ -2968,135 +2974,189 @@ var timeline_data =
       "start": "2015-01-12"
     },
     {
-      "content": "SAIAB_MMW_001_PCR01_VF1T1_VR1T1 (6)",
+      "content": "NZG_TR_009_PCR02_CytB (16)",
       "group": "2",
       "id": "219",
+      "start": "2015-01-11"
+    },
+    {
+      "content": "NZG_TR_009_Seq02_CytB1F (3)",
+      "group": "3",
+      "id": "220",
+      "start": "2015-01-12"
+    },
+    {
+      "content": "NZG_TR_009_Seq02_CytB2F (3)",
+      "group": "3",
+      "id": "221",
+      "start": "2015-01-12"
+    },
+    {
+      "content": "NZG_TR_008_PCR02_BirdFR (16)",
+      "group": "2",
+      "id": "222",
+      "start": "2015-01-14"
+    },
+    {
+      "content": "NZG_TR_008_PCR02_CytB (16)",
+      "group": "2",
+      "id": "223",
+      "start": "2015-01-14"
+    },
+    {
+      "content": "NZG_TR_008_Seq02_BirdF (4)",
+      "group": "3",
+      "id": "224",
+      "start": "2015-01-14"
+    },
+    {
+      "content": "NZG_TR_008_Seq02_BirdR (4)",
+      "group": "3",
+      "id": "225",
+      "start": "2015-01-14"
+    },
+    {
+      "content": "NZG_TR_008_Seq02_CytB1F (11)",
+      "group": "3",
+      "id": "226",
+      "start": "2015-01-14"
+    },
+    {
+      "content": "NZG_TR_008_Seq02_CytB2R (11)",
+      "group": "3",
+      "id": "227",
+      "start": "2015-01-14"
+    },
+    {
+      "content": "SAIAB_MMW_001_PCR01_VF1T1_VR1T1 (6)",
+      "group": "2",
+      "id": "228",
       "start": "2014-10-30"
     },
     {
       "content": "SAIAB_MMW_001_PCR02_VF1T1_VR1T1 (48)",
       "group": "2",
-      "id": "220",
+      "id": "229",
       "start": "2014-10-31"
     },
     {
       "content": "SAIAB_MMW_001_PCR03_VF1T1_VR1T1 (15)",
       "group": "2",
-      "id": "221",
+      "id": "230",
       "start": "2014-11-13"
     },
     {
       "content": "SAIAB_MMW_001_PCR04_VF1T1_VR1T1 (8)",
       "group": "2",
-      "id": "222",
+      "id": "231",
       "start": "2014-11-14"
     },
     {
       "content": "SAIAB_MMW_001_Seq01_M13(-21)_F (24)",
       "group": "3",
-      "id": "223",
+      "id": "232",
       "start": "2014-11-18"
     },
     {
       "content": "SAIAB_MMW_001_Seq02_M13(-21)_F (17)",
       "group": "3",
-      "id": "224",
+      "id": "233",
       "start": "2014-11-28"
     },
     {
       "content": "SAIAB_MMW_001_Seq03_M13(-27)_R (48)",
       "group": "3",
-      "id": "225",
+      "id": "234",
       "start": "2014-12-04"
     },
     {
       "content": "SAIAB_MMW_001_X01 (48)",
       "group": "1",
-      "id": "226",
+      "id": "235",
       "start": "2014-10-23"
     },
     {
       "content": "ACDB_ZES_001_X01 (49)",
       "group": "1",
-      "id": "227",
+      "id": "236",
       "start": "2014-11-10"
     },
     {
       "content": "ACDB_ZES_001_X02_matK_Gym-F-R (49)",
       "group": "2",
-      "id": "228",
+      "id": "237",
       "start": "2014-12-04"
     },
     {
       "content": "ACDB_ZES_001_X02_rbcLa-F-R (49)",
       "group": "2",
-      "id": "229",
+      "id": "238",
       "start": "2014-12-04"
     },
     {
       "content": "ACDB_ZES_001_X03_matK_Gymn-M13F (49)",
       "group": "3",
-      "id": "230",
+      "id": "239",
       "start": "2014-12-04"
     },
     {
       "content": "ACDB_ZES_001_X03_matK_Gymn-M13R (49)",
       "group": "3",
-      "id": "231",
+      "id": "240",
       "start": "2014-12-04"
     },
     {
       "content": "ACDB_ZES_001_X03_rbcLa-M13F (49)",
       "group": "3",
-      "id": "232",
+      "id": "241",
       "start": "2014-12-04"
     },
     {
       "content": "ACDB_ZES_001_X03_rbcLa-M13R (49)",
       "group": "3",
-      "id": "233",
+      "id": "242",
       "start": "2014-12-04"
     },
     {
       "content": "ACDB_ZES_002_X01 (19)",
       "group": "1",
-      "id": "234",
+      "id": "243",
       "start": "2014-12-04"
     },
     {
       "content": "ACDB_ZES_002_X02_matK_Gym-F-R (19)",
       "group": "2",
-      "id": "235",
+      "id": "244",
       "start": "2014-12-05"
     },
     {
       "content": "ACDB_ZES_002_X02_rbcLa-F-R (19)",
       "group": "2",
-      "id": "236",
+      "id": "245",
       "start": "2014-12-05"
     },
     {
       "content": "ACDB_ZES_002_X03_matK-M13F (16)",
       "group": "3",
-      "id": "237",
+      "id": "246",
       "start": "2014-12-05"
     },
     {
       "content": "ACDB_ZES_002_X03_matK-M13R (16)",
       "group": "3",
-      "id": "238",
+      "id": "247",
       "start": "2014-12-05"
     },
     {
       "content": "ACDB_ZES_002_X03_rbcLa-M13F (17)",
       "group": "3",
-      "id": "239",
+      "id": "248",
       "start": "2014-12-05"
     },
     {
       "content": "ACDB_ZES_002_X03_rbcLa-M13R (17)",
       "group": "3",
-      "id": "240",
+      "id": "249",
       "start": "2014-12-05"
     }
   ]
