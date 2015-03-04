@@ -1,4 +1,4 @@
-var last_update = 'Tuesday, 03 March, 2015 at 08:47 EST';
+var last_update = 'Wednesday, 04 March, 2015 at 12:28 EST';
 var totals_data = 
 {
   "mx": {
@@ -64,7 +64,7 @@ var totals_data =
     },
     "sequenced": {
       "total": 2327,
-      "unique": 533
+      "unique": 566
     }
   }
 };
