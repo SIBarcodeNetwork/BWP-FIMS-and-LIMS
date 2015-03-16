@@ -73,6 +73,7 @@
     <worksheet sheetname="Samples">
       <rule type="duplicateColumnNames" level="error"/>
       <rule type="uniqueValue" column="voucherID" level="error"/>
+      <rule type="uniqueValue" column="extractionWell" level="error"/>
       <rule type="RequiredColumns" column="RequiredColumns" level="error">
         <field>countryOrOcean</field>
         <field>voucherID</field>
