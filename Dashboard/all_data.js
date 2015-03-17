@@ -1,4 +1,4 @@
-var last_update = 'Monday, 16 March, 2015 at 07:47 EST';
+var last_update = 'Tuesday, 17 March, 2015 at 15:58 EST';
 var totals_data = 
 {
   "mx": {
@@ -51,8 +51,8 @@ var totals_data =
       "unique": 552
     },
     "extraction": {
-      "total": 686,
-      "unique": 686
+      "total": 701,
+      "unique": 701
     },
     "fims": {
       "total": 701,
@@ -3614,6 +3614,12 @@ var timeline_data =
       "group": "1",
       "id": "294",
       "start": "2015-03-11"
+    },
+    {
+      "content": "ACDB_ZES_004_X01 (15)",
+      "group": "1",
+      "id": "295",
+      "start": "2015-03-16"
     }
   ]
 };
