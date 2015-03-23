@@ -1,4 +1,4 @@
-var last_update = 'Friday, 20 March, 2015 at 06:57 EST';
+var last_update = 'Monday, 23 March, 2015 at 08:29 EST';
 var totals_data = 
 {
   "mx": {
@@ -55,8 +55,8 @@ var totals_data =
       "unique": 845
     },
     "fims": {
-      "total": 863,
-      "unique": 863
+      "total": 837,
+      "unique": 837
     },
     "assembled": {
       "total": 0,
@@ -1894,7 +1894,7 @@ var timeline_data =
       "start": "2014-12-03"
     },
     {
-      "content": "NZG_MR_005 (16)",
+      "content": "NZG_MR_005 (1)",
       "group": "0",
       "id": "8",
       "start": "2014-12-03"
@@ -2032,13 +2032,13 @@ var timeline_data =
       "start": "2014-12-02"
     },
     {
-      "content": "NZG_TR_002 (16)",
+      "content": "NZG_TR_002 (14)",
       "group": "0",
       "id": "31",
       "start": "2014-12-03"
     },
     {
-      "content": "NZG_TR_003 (16)",
+      "content": "NZG_TR_003 (7)",
       "group": "0",
       "id": "32",
       "start": "2014-12-03"
