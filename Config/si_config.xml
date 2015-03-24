@@ -81,9 +81,6 @@
         <field>catalogNumber</field>
         <field>scientificName</field>
         <field>kingdom</field>
-        <field>phylum</field>
-        <field>class</field>
-        <field>order</field>
         <field>extractionPlateID</field>
         <field>extractionWell</field>
       </rule>
