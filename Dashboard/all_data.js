@@ -1,4 +1,4 @@
-var last_update = 'Friday, 10 April, 2015 at 08:43 EST';
+var last_update = 'Monday, 13 April, 2015 at 08:40 EST';
 var totals_data = 
 {
   "mx": {
@@ -25,7 +25,7 @@ var totals_data =
   },
   "ke": {
     "pcr": {
-      "total": 1808,
+      "total": 1831,
       "unique": 525
     },
     "extraction": {
@@ -41,8 +41,8 @@ var totals_data =
       "unique": 0
     },
     "sequenced": {
-      "total": 1478,
-      "unique": 369
+      "total": 1642,
+      "unique": 410
     }
   },
   "za": {
@@ -684,7 +684,7 @@ var timeline_data =
       "start": "2015-01-09"
     },
     {
-      "content": "NMK_JSK_004_PCR01_ITS2F_ITS3R (23)",
+      "content": "NMK_JSK_004_PCR02_ITS2F_ITS3R (23)",
       "group": "2",
       "id": "102",
       "start": "2015-01-09"
@@ -846,13 +846,13 @@ var timeline_data =
       "start": "2015-01-16"
     },
     {
-      "content": "NMK_JSK_004_Seq01_ITS2F_F (23)",
+      "content": "NMK_JSK_004_Seq03_ITS2F_F (23)",
       "group": "3",
       "id": "129",
       "start": "2015-01-16"
     },
     {
-      "content": "NMK_JSK_004_Seq02_ITS3R_R (23)",
+      "content": "NMK_JSK_004_Seq04_ITS3R_R (23)",
       "group": "3",
       "id": "130",
       "start": "2015-01-16"
@@ -1096,6 +1096,60 @@ var timeline_data =
       "group": "2",
       "id": "170",
       "start": "2014-12-18"
+    },
+    {
+      "content": "NMK_JSK_004_PCR03_matK-Kim-3-F_matK-Kim-1-R (23)",
+      "group": "2",
+      "id": "171",
+      "start": "2015-03-10"
+    },
+    {
+      "content": "NMK_JSK_004_Seq05_MatK-3FKIM-r (23)",
+      "group": "3",
+      "id": "172",
+      "start": "2015-04-11"
+    },
+    {
+      "content": "NMK_JSK_004_Seq06_matK_1R_kim (23)",
+      "group": "3",
+      "id": "173",
+      "start": "2015-04-10"
+    },
+    {
+      "content": "NMK_JSK_007_Seq01_MatK-1R-KIM (18)",
+      "group": "3",
+      "id": "174",
+      "start": "2015-02-26"
+    },
+    {
+      "content": "NMK_JSK_007_Seq01_MatK-3F-KIM-r (18)",
+      "group": "3",
+      "id": "175",
+      "start": "2015-02-26"
+    },
+    {
+      "content": "NMK_GK_002_Seq01_VF1t1 (23)",
+      "group": "3",
+      "id": "176",
+      "start": "2015-02-26"
+    },
+    {
+      "content": "NMK_GK_002_Seq01_VR1_t1 (23)",
+      "group": "3",
+      "id": "177",
+      "start": "2015-02-26"
+    },
+    {
+      "content": "NMK_JSK_007_Seq02_ITS2F (18)",
+      "group": "3",
+      "id": "178",
+      "start": "2015-02-26"
+    },
+    {
+      "content": "NMK_JSK_007_Seq02_ITS3R (18)",
+      "group": "3",
+      "id": "179",
+      "start": "2015-02-26"
     }
   ],
   "mx": [
