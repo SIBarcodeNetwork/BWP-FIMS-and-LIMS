@@ -1,4 +1,4 @@
-var last_update = 'Monday, 13 April, 2015 at 08:40 EST';
+var last_update = 'Tuesday, 14 April, 2015 at 08:19 EST';
 var totals_data = 
 {
   "mx": {
@@ -25,8 +25,8 @@ var totals_data =
   },
   "ke": {
     "pcr": {
-      "total": 1831,
-      "unique": 525
+      "total": 1840,
+      "unique": 527
     },
     "extraction": {
       "total": 719,
@@ -41,8 +41,8 @@ var totals_data =
       "unique": 0
     },
     "sequenced": {
-      "total": 1642,
-      "unique": 410
+      "total": 1660,
+      "unique": 414
     }
   },
   "za": {
@@ -1008,7 +1008,7 @@ var timeline_data =
       "start": "2015-02-17"
     },
     {
-      "content": "NMK_PAA_001_PCR03_VF1_T1_VR1_T1 (20)",
+      "content": "NMK_PAA_001_PCR04_VF1_T1_VR1_T1 (20)",
       "group": "2",
       "id": "156",
       "start": "2015-01-09"
@@ -1149,6 +1149,24 @@ var timeline_data =
       "content": "NMK_JSK_007_Seq02_ITS3R (18)",
       "group": "3",
       "id": "179",
+      "start": "2015-02-26"
+    },
+    {
+      "content": "NMK_PAA_001_PCR03_VF1_T1_VR1_T1 (9)",
+      "group": "2",
+      "id": "180",
+      "start": "2014-12-11"
+    },
+    {
+      "content": "NMK_PAA_001_Seq02_VF1_t1 (9)",
+      "group": "3",
+      "id": "181",
+      "start": "2015-02-26"
+    },
+    {
+      "content": "NMK_PAA_001_Seq02_VR1_t1 (9)",
+      "group": "3",
+      "id": "182",
       "start": "2015-02-26"
     }
   ],
