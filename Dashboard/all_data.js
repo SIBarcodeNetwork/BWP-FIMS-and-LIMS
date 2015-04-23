@@ -1,7 +1,15 @@
-var last_update = 'Monday, 20 April, 2015 at 21:30 EST';
+var last_update = 'Thursday, 23 April, 2015 at 2:57 EST';
 var totals_data = 
 {
   "mx": {
+    "sequenced": {
+      "total": 3606,
+      "unique": 964
+    },
+    "fims": {
+      "total": 1121,
+      "unique": 1121
+    },
     "pcr": {
       "total": 3197,
       "unique": 1122
@@ -10,48 +18,48 @@ var totals_data =
       "total": 1136,
       "unique": 1121
     },
-    "fims": {
-      "total": 1121,
-      "unique": 1121
-    },
-    "passed": {
-      "total": 66,
-      "unique": 65
-    },
-    "sequenced": {
-      "total": 3606,
-      "unique": 964
-    },
     "gb": {
       "total": 0
+    },
+    "passed": {
+      "total": 307,
+      "unique": 186
     }
   },
   "ke": {
-    "pcr": {
-      "total": 2039,
-      "unique": 570
-    },
-    "extraction": {
-      "total": 762,
-      "unique": 569
-    },
-    "fims": {
-      "total": 761,
-      "unique": 761
-    },
-    "passed": {
-      "total": 0,
-      "unique": 0
-    },
     "sequenced": {
       "total": 1660,
       "unique": 414
     },
+    "fims": {
+      "total": 758,
+      "unique": 758
+    },
+    "pcr": {
+      "total": 2122,
+      "unique": 590
+    },
+    "extraction": {
+      "total": 782,
+      "unique": 589
+    },
     "gb": {
       "total": 0
+    },
+    "passed": {
+      "total": 17,
+      "unique": 17
     }
   },
   "za": {
+    "sequenced": {
+      "total": 2468,
+      "unique": 572
+    },
+    "fims": {
+      "total": 958,
+      "unique": 958
+    },
     "pcr": {
       "total": 1208,
       "unique": 552
@@ -60,20 +68,12 @@ var totals_data =
       "total": 877,
       "unique": 845
     },
-    "fims": {
-      "total": 958,
-      "unique": 958
+    "gb": {
+      "total": 0
     },
     "passed": {
       "total": 0,
       "unique": 0
-    },
-    "sequenced": {
-      "total": 2468,
-      "unique": 572
-    },
-    "gb": {
-      "total": 0
     }
   }
 };
@@ -177,7 +177,7 @@ var timeline_data =
       "start": "2015-03-05"
     },
     {
-      "content": "NMK_JSK_009 (23)",
+      "content": "NMK_JSK_009 (20)",
       "group": "0",
       "id": "16",
       "start": "2015-03-05"
@@ -1272,6 +1272,36 @@ var timeline_data =
       "content": "NMK_JSK_008_PCR01_RBCLr590_RBCLa-F (19)",
       "group": "2",
       "id": "198",
+      "start": "2015-04-07"
+    },
+    {
+      "content": "NMK_JSK_005_PCR03_matK-Kim-3-F_matK-Kim-1-R (23)",
+      "group": "2",
+      "id": "199",
+      "start": "2015-02-09"
+    },
+    {
+      "content": "NMK_JSK_009_X01 (20)",
+      "group": "1",
+      "id": "200",
+      "start": "2015-03-31"
+    },
+    {
+      "content": "NMK_JSK_009_PCR01_rbcla-F_rbclr590 (20)",
+      "group": "2",
+      "id": "201",
+      "start": "2015-04-07"
+    },
+    {
+      "content": "NMK_JSK_009_PCR01_ITS2F_ITS3R (20)",
+      "group": "2",
+      "id": "202",
+      "start": "2015-04-07"
+    },
+    {
+      "content": "NMK_JSK_009_PCR01_matK_1R_kim_MatK-3FKIM-r (20)",
+      "group": "2",
+      "id": "203",
       "start": "2015-04-07"
     }
   ],
