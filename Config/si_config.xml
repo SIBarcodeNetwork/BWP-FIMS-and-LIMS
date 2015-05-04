@@ -29,9 +29,6 @@
       <attribute column="subfamily" uri="urn:subfamily"><![CDATA[This is the full scientific name of the rank immediately below family but above genus of the specimen voucher.]]></attribute>
       <attribute column="genus" uri="urn:genus" defined_by="http://rs.tdwg.org/dwc/terms/genus"><![CDATA[The full scientific name of the genus in which the taxon is classified.]]></attribute>
       <attribute column="species" uri="urn:species" defined_by="http://rs.tdwg.org/dwc/terms/specificEpithet"><![CDATA[The name of the first or species epithet of the scientificName of the specimen voucher.]]></attribute>
-
-
-
       <attribute column="eventID" uri="urn:eventID" defined_by="http://rs.tdwg.org/dwc/terms/eventID"><![CDATA[An identifier for the set of information associated with an Event (something that occurs at a place and time). May be a global unique identifier or an identifier specific to the data set.]]></attribute>
       <attribute column="fieldNumber" uri="urn:fieldNumber" defined_by="http://rs.tdwg.org/dwc/terms/fieldNumber"><![CDATA[An identifier given to the individual in the field. Often serves as a link between field notes and the Event.]]></attribute>
       <attribute column="timeCollected" uri="urn:timeCollected" defined_by="http://rs.tdwg.org/dwc/terms/eventTime"><![CDATA[The time or interval during which a voucher was collected. Can be a descriptive term, such as "morning". If using an exact time of day, use the 24-hour time format (e.g "1400" for 2 hours past noon).]]></attribute>
@@ -67,6 +64,8 @@
       <attribute column="tissuePosition" uri="urn:tissuePosition"><![CDATA[This is the position of the tissue storage vial within the tissue rack when it enters the lab for processing.]]></attribute>
       <attribute column="tissueType" uri="urn:tissueType" defined_by="http://rs.tdwg.org/dwc/terms/preparations"><![CDATA[The type of tissue that the DNA was extracted from.]]></attribute>
       <attribute column="preservative" uri="urn:preservative" defined_by="http://rs.tdwg.org/dwc/terms/preparations"><![CDATA[List exactly what the tissue is preserved in in the tissue storage vial.]]></attribute>
+      <attribute column="gb_latlon" uri="urn:gb_latlon" defined_by="http://rs.tdwg.org/dwc/terms/verbatimCoordinates"><![CDATA[The GenBank-formatted concatenation of latitude and longitude fields.]]></attribute>
+      <attribute column="gb_locality" uri="urn:gb_locality" defined_by="http://rs.tdwg.org/dwc/terms/verbatimLocality"><![CDATA[The concatenation of locality and countryOrOcean fields for GenBank submission.]]></attribute>
     </entity>
   </mapping>
   <validation>
