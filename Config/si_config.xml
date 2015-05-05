@@ -64,8 +64,8 @@
       <attribute column="tissuePosition" uri="urn:tissuePosition"><![CDATA[This is the position of the tissue storage vial within the tissue rack when it enters the lab for processing.]]></attribute>
       <attribute column="tissueType" uri="urn:tissueType" defined_by="http://rs.tdwg.org/dwc/terms/preparations"><![CDATA[The type of tissue that the DNA was extracted from.]]></attribute>
       <attribute column="preservative" uri="urn:preservative" defined_by="http://rs.tdwg.org/dwc/terms/preparations"><![CDATA[List exactly what the tissue is preserved in in the tissue storage vial.]]></attribute>
-      <attribute column="gb_latlon" uri="urn:gb_latlon" defined_by="http://rs.tdwg.org/dwc/terms/verbatimCoordinates"><![CDATA[The GenBank-formatted concatenation of latitude and longitude fields.]]></attribute>
-      <attribute column="gb_locality" uri="urn:gb_locality" defined_by="http://rs.tdwg.org/dwc/terms/verbatimLocality"><![CDATA[The concatenation of locality and countryOrOcean fields for GenBank submission.]]></attribute>
+      <attribute column="gb_latlon" uri="urn:gbLatLon" defined_by="http://rs.tdwg.org/dwc/terms/verbatimCoordinates"><![CDATA[The GenBank-formatted concatenation of latitude and longitude fields.]]></attribute>
+      <attribute column="gb_locality" uri="urn:gbLocality" defined_by="http://rs.tdwg.org/dwc/terms/verbatimLocality"><![CDATA[The concatenation of locality and countryOrOcean fields for GenBank submission.]]></attribute>
     </entity>
   </mapping>
   <validation>
