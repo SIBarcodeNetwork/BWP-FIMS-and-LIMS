@@ -1,4 +1,4 @@
-var last_update = 'Monday, 11 May, 2015 at 10:27 EST';
+var last_update = 'Tuesday, 12 May, 2015 at 09:30 EST';
 var totals_data = 
 {
   "mx": {
@@ -22,8 +22,8 @@ var totals_data =
       "total": 0
     },
     "passed": {
-      "total": 596,
-      "unique": 451
+      "total": 639,
+      "unique": 494
     }
   },
   "ke": {
