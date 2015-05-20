@@ -76,7 +76,6 @@
     <worksheet sheetname="Samples">
       <rule type="duplicateColumnNames" level="error"/>
       <rule type="uniqueValue" column="tissueBarcode" level="error"/>
-      <rule type="uniqueValue" column="extractionWell" level="error"/>
       <rule type="RequiredColumns" column="RequiredColumns" level="error">
         <field>voucherID</field>
         <field>institutionCode</field>
