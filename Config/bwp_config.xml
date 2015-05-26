@@ -7349,6 +7349,15 @@
         <field>hapantotype</field>
         <field>none</field>
         <field>other</field>
+        <field>Holotype</field>
+        <field>Paratype</field>
+        <field>Neotype</field>
+        <field>Syntype</field>
+        <field>Lectotype</field>
+        <field>Paralectotype</field>
+        <field>Hapantotype</field>
+        <field>None</field>
+        <field>Other</field>        
       </list>
       <list alias="plateWell">
         <field>A01</field>
