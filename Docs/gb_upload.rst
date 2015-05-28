@@ -62,6 +62,8 @@ PCR Primers are a required component of the Barcode Data Standard. You will need
 
 Traces and Sequencing Primers
 -----------------------------
+This is just a test change.
+
 .. image:: /images/traces_defaults.png
   :align: center
 .. image:: /images/sequencing_primers_defaults.png
