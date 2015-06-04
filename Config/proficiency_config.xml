@@ -4,9 +4,11 @@
   <mapping>
     <entity worksheet="Samples" worksheetUniqueKey="tissueBarcode" conceptAlias="Resource" conceptURI="http://www.w3.org/2000/01/rdf-schema#Resource" entityID="1">
       <attribute column="tissueBarcode" uri="urn:tissueBarcode"></attribute>
+      <attribute column="kingdom" uri="urn:kingdom"></attribute>
       <attribute column="extractionPlateID" uri="urn:extractionPlateID"></attribute>
       <attribute column="extractionWell" uri="urn:extractionWell"></attribute>
       <attribute column="extractionBarcode" uri="urn:extractionBarcode"></attribute>
+
     </entity>
   </mapping>
   <validation>
