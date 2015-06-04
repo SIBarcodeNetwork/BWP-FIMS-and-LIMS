@@ -1,0 +1,123 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<fims>
+  <metadata doi="a doi" shortname="ProficiencyTesting" eml_location="eml_location" target="http://data.biscicol.org/ds/data" queryTarget="http://data.biscicol.org/ds"><![CDATA[Fill this in later.]]></metadata>
+  <mapping>
+    <entity worksheet="Samples" worksheetUniqueKey="tissueBarcode" conceptAlias="Resource" conceptURI="http://www.w3.org/2000/01/rdf-schema#Resource" entityID="1">
+      <attribute column="tissueBarcode" uri="urn:tissueBarcode"></attribute>
+      <attribute column="extractionPlateID" uri="urn:extractionPlateID"></attribute>
+      <attribute column="extractionWell" uri="urn:extractionWell"></attribute>
+      <attribute column="extractionBarcode" uri="urn:extractionBarcode"></attribute>
+    </entity>
+  </mapping>
+  <validation>
+    <worksheet sheetname="Samples">
+      <rule type="duplicateColumnNames" level="error"/>
+      <rule type="uniqueValue" column="tissueBarcode" level="error"/>
+      <rule type="uniqueValue" column="extractionWell" level="error"/>
+      <rule type="RequiredColumns" column="RequiredColumns" level="error">
+        <field>tissueBarcode</field>
+      </rule>
+      <rule type="checkInXMLFields" column="extractionWell" list="plateWell" level="error"/>
+    </worksheet>
+    <lists>
+      <list alias="plateWell">
+        <field>A01</field>
+        <field>A02</field>
+        <field>A03</field>
+        <field>A04</field>
+        <field>A05</field>
+        <field>A06</field>
+        <field>A07</field>
+        <field>A08</field>
+        <field>A09</field>
+        <field>A10</field>
+        <field>A11</field>
+        <field>A12</field>
+        <field>B01</field>
+        <field>B02</field>
+        <field>B03</field>
+        <field>B04</field>
+        <field>B05</field>
+        <field>B06</field>
+        <field>B07</field>
+        <field>B08</field>
+        <field>B09</field>
+        <field>B10</field>
+        <field>B11</field>
+        <field>B12</field>
+        <field>C01</field>
+        <field>C02</field>
+        <field>C03</field>
+        <field>C04</field>
+        <field>C05</field>
+        <field>C06</field>
+        <field>C07</field>
+        <field>C08</field>
+        <field>C09</field>
+        <field>C10</field>
+        <field>C11</field>
+        <field>C12</field>
+        <field>D01</field>
+        <field>D02</field>
+        <field>D03</field>
+        <field>D04</field>
+        <field>D05</field>
+        <field>D06</field>
+        <field>D07</field>
+        <field>D08</field>
+        <field>D09</field>
+        <field>D10</field>
+        <field>D11</field>
+        <field>D12</field>
+        <field>E01</field>
+        <field>E02</field>
+        <field>E03</field>
+        <field>E04</field>
+        <field>E05</field>
+        <field>E06</field>
+        <field>E07</field>
+        <field>E08</field>
+        <field>E09</field>
+        <field>E10</field>
+        <field>E11</field>
+        <field>E12</field>
+        <field>F01</field>
+        <field>F02</field>
+        <field>F03</field>
+        <field>F04</field>
+        <field>F05</field>
+        <field>F06</field>
+        <field>F07</field>
+        <field>F08</field>
+        <field>F09</field>
+        <field>F10</field>
+        <field>F11</field>
+        <field>F12</field>
+        <field>G01</field>
+        <field>G02</field>
+        <field>G03</field>
+        <field>G04</field>
+        <field>G05</field>
+        <field>G06</field>
+        <field>G07</field>
+        <field>G08</field>
+        <field>G09</field>
+        <field>G10</field>
+        <field>G11</field>
+        <field>G12</field>
+        <field>H01</field>
+        <field>H02</field>
+        <field>H03</field>
+        <field>H04</field>
+        <field>H05</field>
+        <field>H06</field>
+        <field>H07</field>
+        <field>H08</field>
+        <field>H09</field>
+        <field>H10</field>
+        <field>H11</field>
+        <field>H12</field>
+      </list>
+    </lists>
+  </validation>
+</fims>
