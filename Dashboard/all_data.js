@@ -1,4 +1,4 @@
-var last_update = 'Monday, 08 June, 2015 at 10:39 EST';
+var last_update = 'Tuesday, 09 June, 2015 at 09:28 EST';
 var totals_data = 
 {
   "mx": {
@@ -28,16 +28,16 @@ var totals_data =
   },
   "ke": {
     "sequenced": {
-      "total": 2171,
-      "unique": 486
+      "total": 2377,
+      "unique": 509
     },
     "fims": {
       "total": 767,
       "unique": 767
     },
     "pcr": {
-      "total": 2183,
-      "unique": 573
+      "total": 2263,
+      "unique": 596
     },
     "extraction": {
       "total": 814,
@@ -47,8 +47,8 @@ var totals_data =
       "total": 0
     },
     "passed": {
-      "total": 511,
-      "unique": 403
+      "total": 539,
+      "unique": 424
     }
   },
   "za": {
@@ -1399,6 +1399,90 @@ var timeline_data =
       "group": "1",
       "id": "219",
       "start": "2014-12-20"
+    },
+    {
+      "content": "NMK_GK_001_PCR01_Chmf4_Chmr4 (23)",
+      "group": "2",
+      "id": "220",
+      "start": "2015-02-23"
+    },
+    {
+      "content": "NMK_GK_001_Seq01_Chmf4 (23)",
+      "group": "3",
+      "id": "221",
+      "start": "2015-06-08"
+    },
+    {
+      "content": "NMK_GK_001_Seq01_Chmr4 (23)",
+      "group": "3",
+      "id": "222",
+      "start": "2015-06-08"
+    },
+    {
+      "content": "NMK_GK_001_PCR01_VF1_t1_VR1_t1 (23)",
+      "group": "2",
+      "id": "223",
+      "start": "2015-01-22"
+    },
+    {
+      "content": "NMK_GK_001_Seq01_VF1_t1 (23)",
+      "group": "3",
+      "id": "224",
+      "start": "2015-04-07"
+    },
+    {
+      "content": "NMK_GK_001_Seq01_VR1_t1 (23)",
+      "group": "3",
+      "id": "225",
+      "start": "2015-04-07"
+    },
+    {
+      "content": "NMK_EWM_003_PCR03_MatK1RKIM_MatK3FKIMr (26)",
+      "group": "2",
+      "id": "226",
+      "start": "2015-02-20"
+    },
+    {
+      "content": "NMK_EWM_003_Seq03_MatK1RKIM (26)",
+      "group": "3",
+      "id": "227",
+      "start": "2015-02-26"
+    },
+    {
+      "content": "NMK_EWM_003_Seq03_MatK3FKIMr (26)",
+      "group": "3",
+      "id": "228",
+      "start": "2015-02-26"
+    },
+    {
+      "content": "NMK_JSK_005_Seq02_Rbcla-f (23)",
+      "group": "3",
+      "id": "229",
+      "start": "2015-06-09"
+    },
+    {
+      "content": "NMK_EWM_003_PCR04_MatK1RKIM_MatK3FKIMr (8)",
+      "group": "2",
+      "id": "230",
+      "start": "2015-02-20"
+    },
+    {
+      "content": "NMK_EWM_003_Seq04_MatK1RKIM (8)",
+      "group": "3",
+      "id": "231",
+      "start": "2015-02-26"
+    },
+    {
+      "content": "NMK_EWM_003_Seq04_MatK3FKIMr (8)",
+      "group": "3",
+      "id": "232",
+      "start": "2015-02-26"
+    },
+    {
+      "content": "NMK_JSK_005_Seq02_RbclR590 (23)",
+      "group": "3",
+      "id": "233",
+      "start": "2015-06-09"
     }
   ],
   "mx": [
