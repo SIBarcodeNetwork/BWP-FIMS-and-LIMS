@@ -10,7 +10,7 @@ Contents:
 
    Barcode Data Standard <data_standard>
    Overall Workflow <workflow>
-   FIMS Naming Conventions <conventions>
+   Naming Conventions <conventions>
    Populating the FIMS spreadsheet <fims_spreadsheet_pop>
    FIMS Spreadsheet Validation and Upload <fims_spreadsheet_val>
    Sequence Editing Checklist <sequence_editing>

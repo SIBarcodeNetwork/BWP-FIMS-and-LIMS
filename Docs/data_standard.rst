@@ -7,9 +7,10 @@ It is important for us to remember what the goal of this project is -- the const
 .. image:: /images/data_standard_link.png
   :align: center
 
-In addition to the existing BARCODE data standard, the Barcode of Wildlife Project takes all of the "highly recommended" fields and makes them required. BWP also adds several fields having to do with the identification process.
+The BARCODE Data Standard specifies **required** and **recommended** pieces of metadata, which can be split into:
 
-Here is a summary table of all of the metadata fields that will be required for a GenBank record:
+* specimen metadata and 
+* sequence metadata
 
 +----------------------------------+--------+------------------------------------------------------+--------------------+-----------+
 | GenBank Field                    | Source | FIMS Field                                           | BARCODE Level      | BWP Level |

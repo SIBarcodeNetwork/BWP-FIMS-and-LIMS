@@ -1,16 +1,10 @@
-Workflow and Naming Conventions
-===============================
-
-Workflow
---------
+Naming Conventions
+==================
 
 .. _conventions-link:
 
-Naming Conventions
-------------------
-
-FIMS
-~~~~
+FIMS Naming Conventions
+-----------------------
 
 You must divide your specimen spreadsheets and datasets up by plate or batch of samples that will be processed together in the laboratory pipeline.
 
@@ -28,8 +22,8 @@ This name will then be used for the:
 	:align: center
 * and will also be incorporated in the plate names in the LIMS system (see below)
 
-LIMS
-~~~~
+LIMS Naming Conventions
+-----------------------
 
 Extraction Plate:
 	*[dataset code]_X[extraction attempt number]*

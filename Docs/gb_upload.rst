@@ -55,7 +55,6 @@ Since we are submitting from an assembly of traces, we need to specify to Geneio
 
 .. image:: /images/consensus_defaults.png
   :align: center
-  
 PCR Primers are a required component of the Barcode Data Standard. You will need to tell Geneious which of your fields holds the PCR primer names, and PCR primer sequences.
 
 .. image:: /images/primer_defaults.png
@@ -63,8 +62,6 @@ PCR Primers are a required component of the Barcode Data Standard. You will need
 
 Traces and Sequencing Primers
 -----------------------------
-This is just a test change.
-
 .. image:: /images/traces_defaults.png
   :align: center
 .. image:: /images/sequencing_primers_defaults.png
