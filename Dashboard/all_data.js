@@ -1,4 +1,4 @@
-var last_update = 'Monday, 15 June, 2015 at 08:36 EST';
+var last_update = 'Tuesday, 16 June, 2015 at 08:59 EST';
 var totals_data = 
 {
   "mx": {
@@ -32,8 +32,8 @@ var totals_data =
       "unique": 509
     },
     "fims": {
-      "total": 767,
-      "unique": 767
+      "total": 757,
+      "unique": 757
     },
     "pcr": {
       "total": 2263,
@@ -47,8 +47,8 @@ var totals_data =
       "total": 0
     },
     "passed": {
-      "total": 587,
-      "unique": 446
+      "total": 600,
+      "unique": 459
     }
   },
   "za": {
@@ -213,13 +213,13 @@ var timeline_data =
       "start": "2015-03-05"
     },
     {
-      "content": "NMK_JSK_014 (23)",
+      "content": "NMK_JSK_014 (21)",
       "group": "0",
       "id": "22",
       "start": "2015-03-05"
     },
     {
-      "content": "NMK_JSK_015 (23)",
+      "content": "NMK_JSK_015 (15)",
       "group": "0",
       "id": "23",
       "start": "2015-03-05"
