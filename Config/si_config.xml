@@ -2,7 +2,7 @@
 <fims>
   <metadata doi="a doi" shortname="SIBarcodingCBOL" eml_location="eml_location" target="http://data.biscicol.org/ds/data" queryTarget="http://data.biscicol.org/ds"><![CDATA[Fill this in later.]]></metadata>
   <mapping>
-    <entity worksheet="Samples" worksheetUniqueKey="voucherID" conceptAlias="Resource" conceptURI="http://www.w3.org/2000/01/rdf-schema#Resource" entityID="1">
+    <entity worksheet="Samples" worksheetUniqueKey="tissueID" conceptAlias="Resource" conceptURI="http://www.w3.org/2000/01/rdf-schema#Resource" entityID="1">
       <attribute column="extractionPlateID" uri="urn:extractionPlate"><![CDATA[Barcode of the FluidX plate that is holding the DNA extraction storage vial. This field will not be populated until after the DNA extraction process is complete.]]></attribute>
       <attribute column="extractionWell" uri="urn:extractionWell"><![CDATA[This is the plate position of the DNA extraction storage vial. This field will not be populated until after the DNA extraction process is complete.]]></attribute>
       <attribute column="extractionBarcode" uri="urn:extractionBarcode"><![CDATA[This is the 2D barcode of the tube which contains the DNA extract of the specimen. This field will not be populated until after the DNA extraction process is complete.]]></attribute>
@@ -72,10 +72,11 @@
     <worksheet sheetname="Samples">
       <rule type="duplicateColumnNames" level="error"/>
       <rule type="uniqueValue" column="extractionWell" level="error"/>
-      <rule type="uniqueValue" column="voucherID" level="error"/>
+      <rule type="uniqueValue" column="tissueID" level="error"/>
       <rule type="RequiredColumns" column="RequiredColumns" level="error">
         <field>countryOrOcean</field>
         <field>voucherID</field>
+        <field>tissueID</field>
         <field>institutionCode</field>
         <field>catalogNumber</field>
         <field>scientificName</field>
