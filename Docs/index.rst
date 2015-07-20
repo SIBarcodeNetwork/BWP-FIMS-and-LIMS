@@ -24,7 +24,6 @@ Full Index
 
 .. toctree::
 	:maxdepth: 2
-	:titlesonly:
 
 	setup_software
 	data_standard
