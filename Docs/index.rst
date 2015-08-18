@@ -16,7 +16,10 @@ I think we could put our very simple workflow image in here, and then split the 
 	* :doc:`extraction_plates`
 	* :doc:`pcr_plates`
 	* :doc:`cyclesequencing_plates`
-	* :doc:`sequence_editing`
+* **Sequence Assembly and Publication**
+	* :doc:`downloading_traces`
+	* :doc:`assembling_contigs`
+	* :doc:`sequence_qc`
 	* :doc:`gb_upload`
 
 Full Index
@@ -35,5 +38,7 @@ Full Index
 	extraction_plates
 	pcr_plates
 	cyclesequencing_plates
-	sequence_editing
+	downloading_traces
+	assembling_contigs
+	sequence_qc
 	gb_upload
