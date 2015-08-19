@@ -1,4 +1,4 @@
-Setting up software and helpful links
-=====================================
+Sequence Quality Control
+========================
 
 Fill in content here.

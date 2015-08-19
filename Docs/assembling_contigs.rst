@@ -1,4 +1,4 @@
-Setting up software and helpful links
-=====================================
+Assembling Contigs
+==================
 
 Fill in content here.

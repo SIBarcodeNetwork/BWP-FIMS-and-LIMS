@@ -1,17 +1,17 @@
-var last_update = 'Tuesday, 18 August, 2015 at 11:18 EST';
+var last_update = 'Wednesday, 19 August, 2015 at 09:20 EST';
 var totals_data = 
 {
   "mx": {
     "sequenced": {
-      "total": 4432,
-      "unique": 967
+      "total": 4704,
+      "unique": 1038
     },
     "fims": {
       "total": 1342,
       "unique": 1342
     },
     "pcr": {
-      "total": 4025,
+      "total": 4122,
       "unique": 1343
     },
     "extraction": {
@@ -2435,39 +2435,69 @@ var timeline_data =
       "start": "2015-06-25"
     },
     {
-      "content": "IBUNAM_LCM_007_PCR10_rbcLA1F_rbcLAR (95)",
+      "content": "IBUNAM_LCM_007_PCR10_rbcLA1F_rbcLAR (96)",
       "group": "2",
       "id": "157",
-      "start": "2015-08-14"
+      "start": "2015-08-18"
     },
     {
-      "content": "IBUNAM_LCM_007_PCR09_3FKim_1RKim (95)",
+      "content": "IBUNAM_LCM_007_PCR09_3FKim_1RKim (96)",
       "group": "2",
       "id": "158",
-      "start": "2015-08-14"
+      "start": "2015-08-18"
+    },
+    {
+      "content": "IBUNAM_LCM_007_Seq41_rbcLA1F (71)",
+      "group": "3",
+      "id": "159",
+      "start": "2015-08-18"
+    },
+    {
+      "content": "IBUNAM_LCM_007_Seq42_rbcLAR (71)",
+      "group": "3",
+      "id": "160",
+      "start": "2015-08-18"
+    },
+    {
+      "content": "IBUNAM_LCM_007_Seq43_3FKim (65)",
+      "group": "3",
+      "id": "161",
+      "start": "2015-08-18"
+    },
+    {
+      "content": "IBUNAM_LCM_007_Seq44_1RKim (65)",
+      "group": "3",
+      "id": "162",
+      "start": "2015-08-18"
+    },
+    {
+      "content": "IBUNAM_LCM_007_PCR04_trnH_PSBA (95)",
+      "group": "2",
+      "id": "163",
+      "start": "2015-08-18"
     },
     {
       "content": "CIBNOR_PCC_001_PCR01_CVF1LFt1_CVR1LRt1 (74)",
       "group": "2",
-      "id": "159",
+      "id": "164",
       "start": "2014-12-01"
     },
     {
       "content": "CIBNOR_PCC_001_Seq01_CVF1LFt1_2 (74)",
       "group": "3",
-      "id": "160",
+      "id": "165",
       "start": "2014-12-05"
     },
     {
       "content": "CIBNOR_PCC_001_Seq01_CVR1LRt1_2 (74)",
       "group": "3",
-      "id": "161",
+      "id": "166",
       "start": "2014-12-05"
     },
     {
       "content": "CIBNOR_PCC_001_X01 (74)",
       "group": "1",
-      "id": "162",
+      "id": "167",
       "start": "2014-11-25"
     }
   ],
