@@ -1,9 +1,9 @@
-var last_update = 'Wednesday, 19 August, 2015 at 09:20 EST';
+var last_update = 'Thursday, 20 August, 2015 at 09:02 EST';
 var totals_data = 
 {
   "mx": {
     "sequenced": {
-      "total": 4704,
+      "total": 4832,
       "unique": 1038
     },
     "fims": {
@@ -11,7 +11,7 @@ var totals_data =
       "unique": 1342
     },
     "pcr": {
-      "total": 4122,
+      "total": 4123,
       "unique": 1343
     },
     "extraction": {
@@ -2471,33 +2471,45 @@ var timeline_data =
       "start": "2015-08-18"
     },
     {
-      "content": "IBUNAM_LCM_007_PCR04_trnH_PSBA (95)",
+      "content": "IBUNAM_LCM_007_PCR04_trnH_PSBA (96)",
       "group": "2",
       "id": "163",
-      "start": "2015-08-18"
+      "start": "2015-08-19"
+    },
+    {
+      "content": "IBUNAM_LCM_007_Seq45_trnH (64)",
+      "group": "3",
+      "id": "164",
+      "start": "2015-08-19"
+    },
+    {
+      "content": "IBUNAM_LCM_007_Seq46_PSBA (64)",
+      "group": "3",
+      "id": "165",
+      "start": "2015-08-19"
     },
     {
       "content": "CIBNOR_PCC_001_PCR01_CVF1LFt1_CVR1LRt1 (74)",
       "group": "2",
-      "id": "164",
+      "id": "166",
       "start": "2014-12-01"
     },
     {
       "content": "CIBNOR_PCC_001_Seq01_CVF1LFt1_2 (74)",
       "group": "3",
-      "id": "165",
+      "id": "167",
       "start": "2014-12-05"
     },
     {
       "content": "CIBNOR_PCC_001_Seq01_CVR1LRt1_2 (74)",
       "group": "3",
-      "id": "166",
+      "id": "168",
       "start": "2014-12-05"
     },
     {
       "content": "CIBNOR_PCC_001_X01 (74)",
       "group": "1",
-      "id": "167",
+      "id": "169",
       "start": "2014-11-25"
     }
   ],
