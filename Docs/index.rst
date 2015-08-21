@@ -1,8 +1,6 @@
 Welcome to the Barcode of Wildlife Project Informatics documentation!
 =====================================================================
 
-I think we could put our very simple workflow image in here, and then split the Table of Contents into Getting Started, FIMS, and LIMS.
-
 * **Background and Getting Started**
 	* :doc:`setup_software`
 	* :doc:`data_standard`
