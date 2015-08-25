@@ -14,9 +14,13 @@ To create an extraction plate:
   :align: center
 
 * In the drop-down menu of the "New Reaction" window, choose "Extraction" from the "Type of reaction" drop-down menu. Select the "96 well plate" size option. 
-* A new window will open displaying a map of a 96 well extraction plate. The FIMS data must be uploaded to an empty extraction plate so that the each specimen's field data is correctly associated with that same specimen's laboratory workflow. 
 
 .. figure:: /images/new_extraction_plate.png
+  :align: center
+
+* A new window will open displaying a map of a 96 well extraction plate. The FIMS data must be uploaded to an empty extraction plate so that the each specimen's field data is correctly associated with that same specimen's laboratory workflow. 
+
+.. figure:: /images/empty_extraction_plate.png
   :align: center
 
 * Insert a name for the extraction plate into the relevant field in the window.
