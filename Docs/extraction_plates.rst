@@ -30,7 +30,7 @@ To create an extraction plate:
 .. figure:: /images/get_tissue_ids.png
   :align: center
 
-* Click on 'Tools' and select "Get tissue Id's from archive plate' from teh dropdown menu.
+* Click on 'Tools' and select "Get tissue Id's from archive plate' from the dropdown menu.
 * Another new window 'Get FIMS plate' will appear.
 
 .. figure:: /images/enter_plate_id.png
@@ -39,7 +39,7 @@ To create an extraction plate:
 * Here you must enter the extractionPlateID value that was included in the FIMS spreadsheet for this plate/dataset. Click 'OK' once complete.
 * A new window will appear indicating the LIMS is fetching the tissue ID's from the FIMS database. When successful, the "Tissue Sample Id" fields in the 'Edit Plate' window will be populated. Alternatively, if you receive a message indicating that the plate cannot be found in the FIMS, check:
 
-	* that the plate ID is spelt exactly as it was included in the FIMS spreadsheet. 
+	* that the plate ID is spelled exactly as it was included in the FIMS spreadsheet. 
 	* that the FIMS spreadsheet was successfully uploaded to the FIMS; and
 	* that when you logged in to the LIMS that you selected the correct FIMS field for the 'Plate name field' of the log-in window.
 * After successful upload, select 'Generate Extraction Ids' from the 'Tools' dropdown menu. The LIMS will automatically populate the second column of the window (Extraction Id). The .1 indicates this is the first extraction in the LIMs for that particular tissue, .2 would indicate it is the second and so on.
