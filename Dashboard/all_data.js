@@ -1,10 +1,10 @@
-var last_update = 'Wednesday, 02 September, 2015 at 09:02 EST';
+var last_update = 'Friday, 04 September, 2015 at 08:08 EST';
 var totals_data = 
 {
   "mx": {
     "sequenced": {
-      "total": 5137,
-      "unique": 1043
+      "total": 5525,
+      "unique": 1129
     },
     "fims": {
       "total": 1342,
@@ -12,7 +12,7 @@ var totals_data =
     },
     "pcr": {
       "total": 4507,
-      "unique": 1259
+      "unique": 1343
     },
     "extraction": {
       "total": 1452,
@@ -53,7 +53,7 @@ var totals_data =
   },
   "za": {
     "sequenced": {
-      "total": 2655,
+      "total": 2679,
       "unique": 631
     },
     "fims": {
@@ -61,7 +61,7 @@ var totals_data =
       "unique": 964
     },
     "pcr": {
-      "total": 1384,
+      "total": 1396,
       "unique": 661
     },
     "extraction": {
@@ -72,8 +72,8 @@ var totals_data =
       "total": 0
     },
     "passed": {
-      "total": 179,
-      "unique": 130
+      "total": 211,
+      "unique": 156
     }
   }
 };
@@ -2375,25 +2375,25 @@ var timeline_data =
       "start": "2015-08-06"
     },
     {
-      "content": "IBUNAM_LCM_005_Seq35_trnH (86)",
+      "content": "IBUNAM_LCM_005_Seq36_trnH (86)",
       "group": "3",
       "id": "147",
       "start": "2015-08-07"
     },
     {
-      "content": "IBUNAM_LCM_005_Seq36_PSBA (86)",
+      "content": "IBUNAM_LCM_005_Seq37_PSBA (86)",
       "group": "3",
       "id": "148",
       "start": "2015-08-07"
     },
     {
-      "content": "IBUNAM_LCM_006_Seq37_trnH (65)",
+      "content": "IBUNAM_LCM_006_Seq38_trnH (65)",
       "group": "3",
       "id": "149",
       "start": "2015-08-07"
     },
     {
-      "content": "IBUNAM_LCM_006_Seq38_PSBA (65)",
+      "content": "IBUNAM_LCM_006_Seq39_PSBA (65)",
       "group": "3",
       "id": "150",
       "start": "2015-08-07"
@@ -2405,13 +2405,13 @@ var timeline_data =
       "start": "2015-08-06"
     },
     {
-      "content": "IBUNAM_LCM_004_Seq39_trnH (55)",
+      "content": "IBUNAM_LCM_004_Seq40_trnH (55)",
       "group": "3",
       "id": "152",
       "start": "2015-08-07"
     },
     {
-      "content": "IBUNAM_LCM_004_Seq40_PSBA (55)",
+      "content": "IBUNAM_LCM_004_Seq41_PSBA (55)",
       "group": "3",
       "id": "153",
       "start": "2015-08-07"
@@ -2441,25 +2441,25 @@ var timeline_data =
       "start": "2015-08-18"
     },
     {
-      "content": "IBUNAM_LCM_007_Seq41_rbcLA1F (71)",
+      "content": "IBUNAM_LCM_007_Seq42_rbcLA1F (71)",
       "group": "3",
       "id": "158",
       "start": "2015-08-18"
     },
     {
-      "content": "IBUNAM_LCM_007_Seq42_rbcLAR (71)",
+      "content": "IBUNAM_LCM_007_Seq43_rbcLAR (71)",
       "group": "3",
       "id": "159",
       "start": "2015-08-18"
     },
     {
-      "content": "IBUNAM_LCM_007_Seq43_3FKim (65)",
+      "content": "IBUNAM_LCM_007_Seq44_3FKim (65)",
       "group": "3",
       "id": "160",
       "start": "2015-08-18"
     },
     {
-      "content": "IBUNAM_LCM_007_Seq44_1RKim (65)",
+      "content": "IBUNAM_LCM_007_Seq45_1RKim (65)",
       "group": "3",
       "id": "161",
       "start": "2015-08-18"
@@ -2471,13 +2471,13 @@ var timeline_data =
       "start": "2015-08-19"
     },
     {
-      "content": "IBUNAM_LCM_007_Seq45_trnH (64)",
+      "content": "IBUNAM_LCM_007_Seq46_trnH (64)",
       "group": "3",
       "id": "163",
       "start": "2015-08-19"
     },
     {
-      "content": "IBUNAM_LCM_007_Seq46_PSBA (64)",
+      "content": "IBUNAM_LCM_007_Seq47_PSBA (64)",
       "group": "3",
       "id": "164",
       "start": "2015-08-19"
@@ -2495,25 +2495,25 @@ var timeline_data =
       "start": "2015-08-21"
     },
     {
-      "content": "IBUNAM_LCM_003_Seq48_PSBA (55)",
+      "content": "IBUNAM_LCM_003_Seq49_PSBA (55)",
       "group": "3",
       "id": "167",
       "start": "2015-08-21"
     },
     {
-      "content": "IBUNAM_LCM_003_Seq47_trnH (56)",
+      "content": "IBUNAM_LCM_003_Seq48_trnH (56)",
       "group": "3",
       "id": "168",
       "start": "2015-08-21"
     },
     {
-      "content": "IBUNAM_LCM_007_Seq49_ITS5F (55)",
+      "content": "IBUNAM_LCM_007_Seq50_ITS5F (55)",
       "group": "3",
       "id": "169",
       "start": "2015-08-24"
     },
     {
-      "content": "IBUNAM_LCM_007_Seq50_ITS4R (55)",
+      "content": "IBUNAM_LCM_007_Seq51_ITS4R (55)",
       "group": "3",
       "id": "170",
       "start": "2015-08-24"
@@ -2537,45 +2537,81 @@ var timeline_data =
       "start": "2015-08-31"
     },
     {
-      "content": "IBUNAM_AJM_008_PCR_VF1d_t1_VR1d_t1 (85)",
-      "group": "2",
+      "content": "IBUNAM_LCM_002_Seq52_rbcL1F (42)",
+      "group": "3",
       "id": "174",
-      "start": "2015-08-31"
+      "start": "2015-09-01"
     },
     {
-      "content": "IBUNAM_LCM_002_Seq51_rbcL1F (42)",
+      "content": "IBUNAM_LCM_002_Seq53_rbcLAR (42)",
       "group": "3",
       "id": "175",
       "start": "2015-09-01"
     },
     {
-      "content": "IBUNAM_LCM_002_Seq52_rbcLAR (42)",
+      "content": "IBUNAM_LCM_002_Seq54_1RKim-F (24)",
       "group": "3",
       "id": "176",
-      "start": "2015-09-01"
+      "start": "2015-09-02"
+    },
+    {
+      "content": "IBUNAM_LCM_002_Seq55_3Fkim-R (24)",
+      "group": "3",
+      "id": "177",
+      "start": "2015-09-02"
+    },
+    {
+      "content": "IBUNAM_AJM_008_PCR01_VF1d_t1_VR1d_t1 (85)",
+      "group": "2",
+      "id": "178",
+      "start": "2015-06-25"
+    },
+    {
+      "content": "IBUNAM_AJM_008_Seq01_M13_R (85)",
+      "group": "3",
+      "id": "179",
+      "start": "2015-08-31"
+    },
+    {
+      "content": "IBUNAM_AJM_008_Seq01_M13_F (85)",
+      "group": "3",
+      "id": "180",
+      "start": "2015-08-31"
+    },
+    {
+      "content": "IBUNAM_LCM_005_Seq56_ITS5F (85)",
+      "group": "3",
+      "id": "181",
+      "start": "2015-09-03"
+    },
+    {
+      "content": "IBUNAM_LCM_005_Seq57_ITS4R (85)",
+      "group": "3",
+      "id": "182",
+      "start": "2015-09-03"
     },
     {
       "content": "CIBNOR_PCC_001_PCR01_CVF1LFt1_CVR1LRt1 (74)",
       "group": "2",
-      "id": "177",
+      "id": "183",
       "start": "2014-12-01"
     },
     {
       "content": "CIBNOR_PCC_001_Seq01_CVF1LFt1_2 (74)",
       "group": "3",
-      "id": "178",
+      "id": "184",
       "start": "2014-12-05"
     },
     {
       "content": "CIBNOR_PCC_001_Seq01_CVR1LRt1_2 (74)",
       "group": "3",
-      "id": "179",
+      "id": "185",
       "start": "2014-12-05"
     },
     {
       "content": "CIBNOR_PCC_001_X01 (74)",
       "group": "1",
-      "id": "180",
+      "id": "186",
       "start": "2014-11-25"
     }
   ],
@@ -4417,405 +4453,435 @@ var timeline_data =
       "start": "2015-09-02"
     },
     {
+      "content": "NZG_MR_001_Seq03_LCO1490 (8)",
+      "group": "3",
+      "id": "307",
+      "start": "2015-07-17"
+    },
+    {
+      "content": "NZG_MR_001_Seq03_HCO2198 (8)",
+      "group": "3",
+      "id": "308",
+      "start": "2015-07-17"
+    },
+    {
+      "content": "NZG_MR_002_PCR03_HCO2198_LCO1490 (12)",
+      "group": "2",
+      "id": "309",
+      "start": "2015-06-10"
+    },
+    {
+      "content": "NZG_MR_002_Seq03_LCO1490_F (4)",
+      "group": "3",
+      "id": "310",
+      "start": "2015-08-31"
+    },
+    {
+      "content": "NZG_MR_002_Seq03_HCO2198_R (4)",
+      "group": "3",
+      "id": "311",
+      "start": "2015-08-31"
+    },
+    {
       "content": "SAIAB_MMW_001_PCR01_VF1T1_VR1T1 (6)",
       "group": "2",
-      "id": "307",
+      "id": "312",
       "start": "2014-10-30"
     },
     {
       "content": "SAIAB_MMW_001_PCR02_VF1T1_VR1T1 (48)",
       "group": "2",
-      "id": "308",
+      "id": "313",
       "start": "2014-10-31"
     },
     {
       "content": "SAIAB_MMW_001_PCR03_VF1T1_VR1T1 (15)",
       "group": "2",
-      "id": "309",
+      "id": "314",
       "start": "2014-11-13"
     },
     {
       "content": "SAIAB_MMW_001_PCR04_VF1T1_VR1T1 (8)",
       "group": "2",
-      "id": "310",
+      "id": "315",
       "start": "2014-11-14"
     },
     {
       "content": "SAIAB_MMW_001_Seq01_M13(-21)_F (24)",
       "group": "3",
-      "id": "311",
+      "id": "316",
       "start": "2014-11-18"
     },
     {
       "content": "SAIAB_MMW_001_Seq01_M13(-27)_R (48)",
       "group": "3",
-      "id": "312",
+      "id": "317",
       "start": "2014-12-04"
     },
     {
       "content": "SAIAB_MMW_001_Seq02_M13(-21)_F (17)",
       "group": "3",
-      "id": "313",
+      "id": "318",
       "start": "2014-11-28"
     },
     {
       "content": "SAIAB_MMW_001_Seq02_M13F(-21) (3)",
       "group": "3",
-      "id": "314",
+      "id": "319",
       "start": "2015-03-11"
     },
     {
       "content": "SAIAB_MMW_001_Seq02_M13R(-27) (8)",
       "group": "3",
-      "id": "315",
+      "id": "320",
       "start": "2015-03-11"
     },
     {
       "content": "SAIAB_MMW_001_Seq03_M13F(-21) (2)",
       "group": "3",
-      "id": "316",
+      "id": "321",
       "start": "2015-03-11"
     },
     {
       "content": "SAIAB_MMW_001_Seq03_M13R(-21) (6)",
       "group": "3",
-      "id": "317",
+      "id": "322",
       "start": "2015-03-11"
     },
     {
       "content": "SAIAB_MMW_001_Seq04_M13R(-21) (15)",
       "group": "3",
-      "id": "318",
+      "id": "323",
       "start": "2015-03-18"
     },
     {
       "content": "SAIAB_MMW_001_Seq05_M13R(-21) (10)",
       "group": "3",
-      "id": "319",
+      "id": "324",
       "start": "2015-03-19"
     },
     {
       "content": "SAIAB_MMW_001_X01 (48)",
       "group": "1",
-      "id": "320",
+      "id": "325",
       "start": "2014-10-09"
     },
     {
       "content": "SAIAB_TLB_001_PCR01_VF2t1_VR1t1 (16)",
       "group": "2",
-      "id": "321",
+      "id": "326",
       "start": "2014-12-12"
     },
     {
       "content": "SAIAB_TLB_001_Seq01_M13(-21)F (16)",
       "group": "3",
-      "id": "322",
+      "id": "327",
       "start": "2015-02-24"
     },
     {
       "content": "SAIAB_TLB_001_Seq01_M13(-27)R (16)",
       "group": "3",
-      "id": "323",
+      "id": "328",
       "start": "2015-02-24"
     },
     {
       "content": "SAIAB_TLB_001_Seq02_M13(-21)F (3)",
       "group": "3",
-      "id": "324",
+      "id": "329",
       "start": "2015-03-04"
     },
     {
       "content": "SAIAB_TLB_001_Seq02_M13(-27)R (3)",
       "group": "3",
-      "id": "325",
+      "id": "330",
       "start": "2015-03-04"
     },
     {
       "content": "SAIAB_TLB_001_Seq03_M13(-27)R (1)",
       "group": "3",
-      "id": "326",
+      "id": "331",
       "start": "2015-03-17"
     },
     {
       "content": "SAIAB_TLB_001_X01 (16)",
       "group": "1",
-      "id": "327",
+      "id": "332",
       "start": "2014-10-09"
     },
     {
       "content": "SAIAB_TLB_002_PCR01_VF2t1_VR1t1 (23)",
       "group": "2",
-      "id": "328",
+      "id": "333",
       "start": "2015-02-04"
     },
     {
       "content": "SAIAB_TLB_002_PCR02_VF2t1_VR1t1 (3)",
       "group": "2",
-      "id": "329",
+      "id": "334",
       "start": "2015-02-05"
     },
     {
       "content": "SAIAB_TLB_002_PCR04_VF2t1_VR1t1 (3)",
       "group": "2",
-      "id": "330",
+      "id": "335",
       "start": "2015-03-03"
     },
     {
       "content": "SAIAB_TLB_002_Seq01_M13(-21)F (20)",
       "group": "3",
-      "id": "331",
+      "id": "336",
       "start": "2015-02-24"
     },
     {
       "content": "SAIAB_TLB_002_Seq01_M13(-27)R (20)",
       "group": "3",
-      "id": "332",
+      "id": "337",
       "start": "2015-02-24"
     },
     {
       "content": "SAIAB_TLB_002_X01 (23)",
       "group": "1",
-      "id": "333",
+      "id": "338",
       "start": "2015-02-02"
     },
     {
       "content": "SAIAB_TLB_003_PCR01_VF2t1_VR1t1 (16)",
       "group": "2",
-      "id": "334",
+      "id": "339",
       "start": "2015-02-11"
     },
     {
       "content": "SAIAB_TLB_003_PCR02_VF2t1_VR1t1 (4)",
       "group": "2",
-      "id": "335",
+      "id": "340",
       "start": "2015-02-12"
     },
     {
       "content": "SAIAB_TLB_003_Seq01_M13F(-21) (11)",
       "group": "3",
-      "id": "336",
+      "id": "341",
       "start": "2015-02-24"
     },
     {
       "content": "SAIAB_TLB_003_Seq01_M13R(-27) (11)",
       "group": "3",
-      "id": "337",
+      "id": "342",
       "start": "2015-02-24"
     },
     {
       "content": "SAIAB_TLB_003_Seq02_M13F(-21) (2)",
       "group": "3",
-      "id": "338",
+      "id": "343",
       "start": "2015-03-04"
     },
     {
       "content": "SAIAB_TLB_003_Seq02_M13R(-27) (2)",
       "group": "3",
-      "id": "339",
+      "id": "344",
       "start": "2015-03-04"
     },
     {
       "content": "SAIAB_TLB_003_X01 (15)",
       "group": "1",
-      "id": "340",
+      "id": "345",
       "start": "2015-02-09"
     },
     {
       "content": "SAIAB_TLB_004_X01 (24)",
       "group": "1",
-      "id": "341",
+      "id": "346",
       "start": "2015-04-14"
     },
     {
       "content": "SAIAB_TLB_005_X01 (24)",
       "group": "1",
-      "id": "342",
+      "id": "347",
       "start": "2015-04-14"
     },
     {
       "content": "SAIAB_TLB_006_PCR01_VF2t1_VR1t1 (24)",
       "group": "2",
-      "id": "343",
+      "id": "348",
       "start": "2015-04-29"
     },
     {
       "content": "SAIAB_TLB_006_Seq01_M13F(-21) (5)",
       "group": "3",
-      "id": "344",
+      "id": "349",
       "start": "2015-05-25"
     },
     {
       "content": "SAIAB_TLB_006_Seq01_M13R(-27) (4)",
       "group": "3",
-      "id": "345",
+      "id": "350",
       "start": "2015-05-28"
     },
     {
       "content": "SAIAB_TLB_006_Seq02_M13F(-21) (3)",
       "group": "3",
-      "id": "346",
+      "id": "351",
       "start": "2015-05-29"
     },
     {
       "content": "SAIAB_TLB_006_Seq02_M13R(-27) (3)",
       "group": "3",
-      "id": "347",
+      "id": "352",
       "start": "2015-06-04"
     },
     {
       "content": "SAIAB_TLB_006_Seq03_M13F(-21) (4)",
       "group": "3",
-      "id": "348",
+      "id": "353",
       "start": "2015-06-01"
     },
     {
       "content": "SAIAB_TLB_006_Seq03_M13R(-27) (5)",
       "group": "3",
-      "id": "349",
+      "id": "354",
       "start": "2015-06-09"
     },
     {
       "content": "SAIAB_TLB_006_X01  (22)",
       "group": "1",
-      "id": "350",
+      "id": "355",
       "start": "2015-07-23"
     },
     {
       "content": "SAIAB_TLB_009_Seq01_dgHCO2198 (4)",
       "group": "3",
-      "id": "351",
+      "id": "356",
       "start": "2015-06-25"
     },
     {
       "content": "SAIAB_TLB_009_Seq01_dgLCO1490 (4)",
       "group": "3",
-      "id": "352",
+      "id": "357",
       "start": "2015-06-25"
     },
     {
       "content": "SAIAB_TLB_009_Seq01_M13F(-21) (12)",
       "group": "3",
-      "id": "353",
+      "id": "358",
       "start": "2015-06-23"
     },
     {
       "content": "SAIAB_TLB_009_Seq01_M13R(-27) (12)",
       "group": "3",
-      "id": "354",
+      "id": "359",
       "start": "2015-06-24"
     },
     {
       "content": "SAIAB_TLB_009_X01 (16)",
       "group": "1",
-      "id": "355",
+      "id": "360",
       "start": "2015-06-15"
     },
     {
       "content": "SAIAB_TLB_09_PCR01_dgLCO1490_dgHCO2198 (4)",
       "group": "2",
-      "id": "356",
+      "id": "361",
       "start": "2015-06-23"
     },
     {
       "content": "SAIAB_TLB_09_PCR01_VF2t1_VR1t1 (16)",
       "group": "2",
-      "id": "357",
+      "id": "362",
       "start": "2015-06-17"
     },
     {
       "content": "ACDB_ZES_001_X01 (49)",
       "group": "1",
-      "id": "358",
+      "id": "363",
       "start": "2014-11-10"
     },
     {
       "content": "ACDB_ZES_001_X02_matK_Gym-F-R (49)",
       "group": "2",
-      "id": "359",
+      "id": "364",
       "start": "2014-12-04"
     },
     {
       "content": "ACDB_ZES_001_X02_rbcLa-F-R (49)",
       "group": "2",
-      "id": "360",
+      "id": "365",
       "start": "2014-12-04"
     },
     {
       "content": "ACDB_ZES_001_X03_matK_Gymn-M13F (49)",
       "group": "3",
-      "id": "361",
+      "id": "366",
       "start": "2014-12-04"
     },
     {
       "content": "ACDB_ZES_001_X03_matK_Gymn-M13R (49)",
       "group": "3",
-      "id": "362",
+      "id": "367",
       "start": "2014-12-04"
     },
     {
       "content": "ACDB_ZES_001_X03_rbcLa-M13F (49)",
       "group": "3",
-      "id": "363",
+      "id": "368",
       "start": "2014-12-04"
     },
     {
       "content": "ACDB_ZES_001_X03_rbcLa-M13R (49)",
       "group": "3",
-      "id": "364",
+      "id": "369",
       "start": "2014-12-04"
     },
     {
       "content": "ACDB_ZES_002_X01 (19)",
       "group": "1",
-      "id": "365",
+      "id": "370",
       "start": "2014-12-04"
     },
     {
       "content": "ACDB_ZES_002_X02_matK_Gym-F-R (19)",
       "group": "2",
-      "id": "366",
+      "id": "371",
       "start": "2014-12-05"
     },
     {
       "content": "ACDB_ZES_002_X02_rbcLa-F-R (19)",
       "group": "2",
-      "id": "367",
+      "id": "372",
       "start": "2014-12-05"
     },
     {
       "content": "ACDB_ZES_002_X03_matK-M13F (19)",
       "group": "3",
-      "id": "368",
+      "id": "373",
       "start": "2015-04-02"
     },
     {
       "content": "ACDB_ZES_002_X03_matK-M13R (19)",
       "group": "3",
-      "id": "369",
+      "id": "374",
       "start": "2015-04-02"
     },
     {
       "content": "ACDB_ZES_002_X03_rbcLa-M13F (17)",
       "group": "3",
-      "id": "370",
+      "id": "375",
       "start": "2014-12-05"
     },
     {
       "content": "ACDB_ZES_002_X03_rbcLa-M13R (17)",
       "group": "3",
-      "id": "371",
+      "id": "376",
       "start": "2014-12-05"
     },
     {
       "content": "ACDB_ZES_003_X01 (96)",
       "group": "1",
-      "id": "372",
+      "id": "377",
       "start": "2015-03-11"
     },
     {
       "content": "ACDB_ZES_004_X01 (15)",
       "group": "1",
-      "id": "373",
+      "id": "378",
       "start": "2015-03-16"
     }
   ]
