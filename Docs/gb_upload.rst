@@ -21,7 +21,7 @@ Because traces are a required part of a BARCODE keyword record on GenBank, **use
 
 .. image:: /images/genbank_submit_colorcoded.png
   :align: center
-  :target: /_images/genbank_submit_colorcoded.png
+  :target: /en/latest/_images/genbank_submit_colorcoded.png
 
 
 Submission Details
