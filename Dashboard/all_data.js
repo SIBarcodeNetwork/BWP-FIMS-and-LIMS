@@ -1,4 +1,4 @@
-var last_update = 'Monday, 14 September, 2015 at 09:11 EST';
+var last_update = 'Tuesday, 15 September, 2015 at 09:08 EST';
 var totals_data = 
 {
   "mx": {
@@ -72,8 +72,8 @@ var totals_data =
       "total": 0
     },
     "passed": {
-      "total": 461,
-      "unique": 253
+      "total": 490,
+      "unique": 287
     }
   }
 };
@@ -3337,7 +3337,7 @@ var timeline_data =
       "start": "2014-12-15"
     },
     {
-      "content": "NZG_MR_012_COI (13)",
+      "content": "NZG_MR_012_PCR01_BirdF1_BirdR1 (13)",
       "group": "2",
       "id": "119",
       "start": "2014-12-15"
@@ -3379,13 +3379,13 @@ var timeline_data =
       "start": "2014-12-19"
     },
     {
-      "content": "NZG_MR_012_BirdF1 (11)",
+      "content": "NZG_MR_012_Seq01_BirdF1 (11)",
       "group": "3",
       "id": "126",
       "start": "2014-12-18"
     },
     {
-      "content": "NZG_MR_012_BirdR1 (11)",
+      "content": "NZG_MR_012_Seq01_BirdR1 (11)",
       "group": "3",
       "id": "127",
       "start": "2014-12-18"
@@ -3751,13 +3751,13 @@ var timeline_data =
       "start": "2014-12-20"
     },
     {
-      "content": "NZG_MR_013_PCR01_CytB1_CytB2 (16)",
+      "content": "NZG_MR_013_PCR02_CytB1_CytB2 (16)",
       "group": "2",
       "id": "188",
       "start": "2014-12-20"
     },
     {
-      "content": "NZG_MR_013_COI (16)",
+      "content": "NZG_MR_013_PCR01_RepCOIF_RepCOIR (16)",
       "group": "2",
       "id": "189",
       "start": "2014-12-20"
@@ -3931,7 +3931,7 @@ var timeline_data =
       "start": "2014-12-21"
     },
     {
-      "content": "NZG_MR_015_COI (16)",
+      "content": "NZG_MR_015_PCR01_RepCOIF_RepCOIR (16)",
       "group": "2",
       "id": "218",
       "start": "2014-12-21"
@@ -3979,7 +3979,7 @@ var timeline_data =
       "start": "2015-01-21"
     },
     {
-      "content": "NZG_MR_015_PCR01_CytB1_CytB2 (16)",
+      "content": "NZG_MR_015_PCR02_CytB1_CytB2 (16)",
       "group": "2",
       "id": "226",
       "start": "2015-01-21"
