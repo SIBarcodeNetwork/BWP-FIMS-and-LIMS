@@ -1,4 +1,4 @@
-var last_update = 'Tuesday, 15 September, 2015 at 09:08 EST';
+var last_update = 'Wednesday, 16 September, 2015 at 09:18 EST';
 var totals_data = 
 {
   "mx": {
@@ -72,8 +72,8 @@ var totals_data =
       "total": 0
     },
     "passed": {
-      "total": 490,
-      "unique": 287
+      "total": 504,
+      "unique": 306
     }
   }
 };
@@ -3115,7 +3115,7 @@ var timeline_data =
       "start": "2014-12-05"
     },
     {
-      "content": "NZG_TR_001_PCR01_LC01490_HC02198 (16)",
+      "content": "NZG_TR_001_PCR01_LCO1490_HCO2198 (16)",
       "group": "2",
       "id": "82",
       "start": "2014-12-03"
@@ -3457,7 +3457,7 @@ var timeline_data =
       "start": "2014-12-27"
     },
     {
-      "content": "NZG_TR_001_Seq01_LC01490_F (16)",
+      "content": "NZG_TR_001_Seq01_LCO1490_F (16)",
       "group": "3",
       "id": "139",
       "start": "2014-12-27"
@@ -3469,7 +3469,7 @@ var timeline_data =
       "start": "2014-12-27"
     },
     {
-      "content": "NZG_TR_001_Seq01_HC02198_R (16)",
+      "content": "NZG_TR_001_Seq01_HCO2198_R (16)",
       "group": "3",
       "id": "141",
       "start": "2014-12-27"
@@ -3487,13 +3487,13 @@ var timeline_data =
       "start": "2014-12-29"
     },
     {
-      "content": "NZG_TR_002_Seq01_HC0212198_R (16)",
+      "content": "NZG_TR_002_Seq01_HCO2198_R (16)",
       "group": "3",
       "id": "144",
       "start": "2014-12-29"
     },
     {
-      "content": "NZG_TR_002_Seq01_LC01490 (16)",
+      "content": "NZG_TR_002_Seq01_LCO1490_F (16)",
       "group": "3",
       "id": "145",
       "start": "2014-12-29"
@@ -4363,7 +4363,7 @@ var timeline_data =
       "start": "2015-04-01"
     },
     {
-      "content": "NZG_MR_019_Seq02_VF1dt1 (12)",
+      "content": "NZG_MR_019_Seq01_VF1dt1 (12)",
       "group": "3",
       "id": "290",
       "start": "2015-04-01"
@@ -4381,13 +4381,13 @@ var timeline_data =
       "start": "2015-04-22"
     },
     {
-      "content": "NZG_MR_020_Seq02_Rprimer_optimisations (8)",
+      "content": "NZG_MR_020_Seq01_Rprimer_optimisations (8)",
       "group": "3",
       "id": "293",
       "start": "2015-04-22"
     },
     {
-      "content": "NZG_MR_020_Seq03_Rprimer_optimisations (7)",
+      "content": "NZG_MR_020_Seq02_Rprimer_optimisations (7)",
       "group": "3",
       "id": "294",
       "start": "2015-04-22"
@@ -4495,13 +4495,13 @@ var timeline_data =
       "start": "2015-06-12"
     },
     {
-      "content": "NZG_MR_019_Seq03_HCO2198_R (1)",
+      "content": "NZG_MR_019_Seq02_HCO2198_R (1)",
       "group": "3",
       "id": "312",
       "start": "2015-06-15"
     },
     {
-      "content": "NZG_MR_019_Seq03_LCO1490_F (1)",
+      "content": "NZG_MR_019_Seq02_LCO1490_F (1)",
       "group": "3",
       "id": "313",
       "start": "2015-06-15"
@@ -4513,13 +4513,13 @@ var timeline_data =
       "start": "2015-08-05"
     },
     {
-      "content": "NZG_MR_020_Seq04_HCO2198_R (5)",
+      "content": "NZG_MR_020_Seq03_HCO2198_R (5)",
       "group": "3",
       "id": "315",
       "start": "2015-08-07"
     },
     {
-      "content": "NZG_MR_020_Seq04_LCO1490_F (5)",
+      "content": "NZG_MR_020_Seq03_LCO1490_F (5)",
       "group": "3",
       "id": "316",
       "start": "2015-08-07"
