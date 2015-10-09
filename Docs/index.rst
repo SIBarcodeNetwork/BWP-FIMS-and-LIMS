@@ -16,6 +16,7 @@ Welcome to the Barcode of Wildlife Project Informatics documentation!
 	* :doc:`downloading_traces`
 	* :doc:`assembling_contigs`
 	* :doc:`sequence_qc`
+	* :doc:`mark_pass`
 	* :doc:`gb_upload`
 
 Full Index
@@ -35,4 +36,5 @@ Full Index
 	downloading_traces
 	assembling_contigs
 	sequence_qc
+	mark_pass
 	gb_upload
