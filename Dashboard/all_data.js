@@ -1,4 +1,4 @@
-var last_update = 'Monday, 02 November, 2015 at 10:18 EST';
+var last_update = 'Friday, 06 November, 2015 at 09:00 EST';
 var totals_data = 
 {
   "mx": {
@@ -28,8 +28,8 @@ var totals_data =
   },
   "ke": {
     "sequenced": {
-      "total": 2851,
-      "unique": 599
+      "total": 2927,
+      "unique": 618
     },
     "fims": {
       "total": 755,
@@ -47,8 +47,8 @@ var totals_data =
       "total": 0
     },
     "passed": {
-      "total": 717,
-      "unique": 530
+      "total": 751,
+      "unique": 549
     }
   },
   "za": {
@@ -1645,6 +1645,30 @@ var timeline_data =
       "group": "3",
       "id": "260",
       "start": "2015-10-13"
+    },
+    {
+      "content": "NMK_JSK_008_Seq01_ITS2F (19)",
+      "group": "3",
+      "id": "261",
+      "start": "2015-06-11"
+    },
+    {
+      "content": "NMK_JSK_008_Seq01_ITS3R (19)",
+      "group": "3",
+      "id": "262",
+      "start": "2015-06-11"
+    },
+    {
+      "content": "NMK_JSK_008_Seq01_rbcLaF (19)",
+      "group": "3",
+      "id": "263",
+      "start": "2015-06-11"
+    },
+    {
+      "content": "NMK_JSK_008_Seq01_rbcLr590 (19)",
+      "group": "3",
+      "id": "264",
+      "start": "2015-06-11"
     }
   ],
   "mx": [
