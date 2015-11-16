@@ -45,29 +45,19 @@ Click on the "Edit Publisher Details…" button to bring up the Publisher Detail
   :target: /en/latest/_images/publisher_details.png
 
 Contact Information
-~~~~~~~~~~~~~~~~~~~
-
-Fill out the top section with the contact information for your submission. This will be the information that GenBank staff will use to contact the submitter with questions or updates for the submission.
+  Fill out the top section with the contact information for your submission. This will be the information that GenBank staff will use to contact the submitter with questions or updates for the submission.
 
 Affiliation
-~~~~~~~~~~~
-
-Fill out the relevant information for the institution that produced these sequences. The entries in this section will show up in the GenBank record, so be sure to provide accurate and consistent information.
+  Fill out the relevant information for the institution that produced these sequences. The entries in this section will show up in the GenBank record, so be sure to provide accurate and consistent information.
 
 Sequence Authors
-~~~~~~~~~~~~~~~~
-
-List as many people who were involved in the production of these sequences as you can think of. Keep in mind that only these people will be authorized to make changes to the GenBank record.
+  List as many people who were involved in the production of these sequences as you can think of. Keep in mind that only these people will be authorized to make changes to the GenBank record.
 
 Consortium
-~~~~~~~~~~
-
-Always fill this in as "Barcode of Wildlife Project". This will allow for easier searching and filtering of all BWP-generated sequences.
+  Always fill this in as "Barcode of Wildlife Project". This will allow for easier searching and filtering of all BWP-generated sequences.
 
 Publication Status and Title
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-
-We will be generating several different scientific publications about the sequences generated from the Barcode of Wildlife Project, but for now select "Unpublished" for the Publication Status, and "Barcode of Wildlife Project [country]" (where [country] is the name of the BWP partner country that produced the sequence.) Again, this allows for easier searching and filtering, and we will be able to add publications to sequences as they are published.
+  We will be generating several different scientific publications about the sequences generated from the Barcode of Wildlife Project, but for now select "Unpublished" for the Publication Status, and "Barcode of Wildlife Project [country]" (where [country] is the name of the BWP partner country that produced the sequence.) Again, this allows for easier searching and filtering, and we will be able to add publications to sequences as they are published.
 
 .. figure:: /images/gb_record_publisher_details.png
   :align: center
@@ -79,9 +69,29 @@ Field Mapping
 -------------
 The next part of the GenBank submission, will be to map all of the different specimen metadata fields to your GenBank record.
 
-.. image:: /images/genbank_fields.png
+.. figure:: /images/genbank_fields.png
   :align: center
   :target: /en/latest/_images/genbank_fields.png
+
+  This screenshot shows the appropriate FIMS fields to select for each of the GenBank fields.
+
+Project Name
+  Just like the "Submission Name" field at the beginning, this entry won't end up in the GenBank record, but should be a meaningful name used to organize your sequences.
+
+Country
+  This will become the "country" field in GenBank. It corresponds with the FIMS field "countryOrOcean", which has already been validated to be part of the NCBI country list.
+
+Specimen Voucher
+  This will become the "specimen_voucher" field in GenBank. It corresponds with the FIMS field "voucherID", which should be a colon-separated triplet comprised of [institutionCode]:[collectionCode]:[catalogNumber].
+
+Sequence ID
+  This field will not be published as part of the GenBank record, but it is very important because this field will connect the specimen data, sequence data, and trace data. Usually the automatically-generated "Name" field from Geneious will work perfectly for this.
+
+Identified by
+  This will become the "identified_by" field in GenBank. It corresponds with the FIMS field "identifiedBy". It is required for the BWP Data Standard, but if it is unknown you can select *None*.
+
+Collection Date
+  This will become the "collection_date" field in GenBank. We separated this into "yearCollected", "monthCollected", and "dayCollected" fields in FIMS so that each could be validated. However, Geneious *should* automatically combine these fields into one "Collection Date" field if your assemblies are annotated correctly.
 
 Gene and CDS Features
 ---------------------
