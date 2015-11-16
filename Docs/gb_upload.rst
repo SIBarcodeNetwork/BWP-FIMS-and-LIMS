@@ -32,7 +32,7 @@ You will see a window appear that has the following sections. Each section is de
 
 Submission Details
 ------------------
-The first part of the GenBank submission deals with filling out the contact details and attributions for your sequence submission, as well as choosing how to submit to GenBank.
+The first part of the GenBank submission deals with filling out the contact details and attributions for your sequence submission, as well as choosing how to submit to GenBank. Give the "Submission Name" field a descriptive name for your submission. This entry will not show up in the GenBank record. Also, be sure to select the option of "Save a local file (.tar)".
 
 .. image:: /images/submission_details.png
   :align: center
@@ -44,11 +44,36 @@ Click on the "Edit Publisher Details…" button to bring up the Publisher Detail
   :align: center
   :target: /en/latest/_images/publisher_details.png
 
-Fill out the top section with the contact information for your submission. Note in the screenshot that I blacked out "First Name", "Last Name", "Phone", "Fax", and "Email". These fields will not be shown in the GenBank record, but the others will.
+Contact Information
+~~~~~~~~~~~~~~~~~~~
 
-.. image:: /images/gb_record_publisher_details.png
+Fill out the top section with the contact information for your submission. This will be the information that GenBank staff will use to contact the submitter with questions or updates for the submission.
+
+Affiliation
+~~~~~~~~~~~
+
+Fill out the relevant information for the institution that produced these sequences. The entries in this section will show up in the GenBank record, so be sure to provide accurate and consistent information.
+
+Sequence Authors
+~~~~~~~~~~~~~~~~
+
+List as many people who were involved in the production of these sequences as you can think of. Keep in mind that only these people will be authorized to make changes to the GenBank record.
+
+Consortium
+~~~~~~~~~~
+
+Always fill this in as "Barcode of Wildlife Project". This will allow for easier searching and filtering of all BWP-generated sequences.
+
+Publication Status and Title
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+We will be generating several different scientific publications about the sequences generated from the Barcode of Wildlife Project, but for now select "Unpublished" for the Publication Status, and "Barcode of Wildlife Project [country]" (where [country] is the name of the BWP partner country that produced the sequence.) Again, this allows for easier searching and filtering, and we will be able to add publications to sequences as they are published.
+
+.. figure:: /images/gb_record_publisher_details.png
   :align: center
   :target: /en/latest/_images/gb_record_publisher_details.png
+
+  This portion of a sample GenBank record shows how the different parts of the Publisher Details section will appear when the record is published.
 
 Field Mapping
 -------------
