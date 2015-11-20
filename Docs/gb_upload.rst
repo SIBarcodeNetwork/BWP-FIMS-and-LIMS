@@ -93,16 +93,47 @@ Identified by
 Collection Date
   This will become the "collection_date" field in GenBank. We separated this into "yearCollected", "monthCollected", and "dayCollected" fields in FIMS so that each could be validated. However, Geneious *should* automatically combine these fields into one "Collection Date" field if your assemblies are annotated correctly.
 
+Collected by
+  This will become the "collected_by" field in GenBank. It corresponds with the FIMS field "collectedBy". It is required for the BWP Data Standard, but if it is unknown you can select *None*.
+
+Organism
+  This field corresponds with the "scientificName" field from FIMS. It will be checked against the NCBI taxonomy database, so make sure that it is already in the database, or be prepared to create a new entry in the database. The name should only be the binomial name (or trinomial if subspecies), and should not include the taxonomic name authority.
+
+Molecule Type
+  This will always be "Genomic DNA" for DNA Barcode records.
+
+Genetic Code
+  For COI barcode sequences, this will be either "Vertebrate Mitochondrial" or "Invertebrate Mitochondrial". *(Make sure to separate vertebrates and invertebrate submissions, as you can only choose 1.)* Plant barcode sequences (matK and rbcL) will always be "Baterial" (the full name that Geneious abbreviated is "The Bacterial, Archaeal, and **Plant** Plastid Code").
+
+Genetic Location
+  For COI barcode sequences, this will be "Mitochondrion". For plant barcode sequences (matK and rbcL), this will be "Chloroplast".
+
 Gene and CDS Features
 ---------------------
+
+The next step will be to let GenBank know which gene was sequenced. As you can see in the snippet from a sample GenBank record below, this will also provide enough information for Geneious to automatically generate the protein amino acid sequence as well.
+
+.. image:: /images/genbank_gene_cds.png
+  :align: center
+  :target: /en/latest/_images/genbank_gene_cds.png
+
+Since DNA barcodes are not full gene sequences, select "Partial" for both Gene Feature and CDS Feature.
 
 .. image:: /images/features_from_fields.png
   :align: center
   :target: /en/latest/_images/features_from_fields.png
 
-.. image:: /images/genbank_gene_cds.png
-  :align: center
-  :target: /en/latest/_images/genbank_gene_cds.png
+The following table will show the corresponding Gene and CDS Product name for each DNA barcode region. You can copy and paste directly from here.
+
+==== =============================================================
+Gene CDS Product
+==== =============================================================
+COI  cytochrome oxidase subunit 1
+matK maturase K
+rbcL ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit
+==== =============================================================
+
+
 
 BWP Structured Comments
 -----------------------
