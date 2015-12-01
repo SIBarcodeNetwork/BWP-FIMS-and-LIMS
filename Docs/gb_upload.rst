@@ -133,14 +133,20 @@ matK maturase K
 rbcL ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit
 ==== =============================================================
 
-
-
 BWP Structured Comments
 -----------------------
+
+This window will appear when you check the button next to "Include structured comments", and then click the "Choose..." button. These are the Barcode of Wildlife Project special fields that set apart BWP GenBank records from regular BARCODE keyword records. The screenshot below shows the appropriate FIMS field to choose for each structured comment field. You can also include additional non-required structured comment fields (chainOfCustody or coordinatePrecision) by checking the box next to "Enable optional comments".
 
 .. image:: /images/structured_comments.png
   :align: center
   :target: /en/latest/_images/structured_comments.png
+
+.. figure:: /images/gb_record_structured_comments.png
+  :align: center
+  :target: /en/latest/_images/gb_record_structured_comments.png
+
+  This screenshot of a sample BWP GenBank record shows how the BWP structured comment fields will appear.
 
 Consensus and Primers
 ---------------------
@@ -150,7 +156,7 @@ Since we are submitting from an assembly of traces, we need to specify to Geneio
   :align: center
   :target: /en/latest/_images/consensus_defaults.png
 
-PCR Primers are a required component of the Barcode Data Standard. You will need to tell Geneious which of your fields holds the PCR primer names, and PCR primer sequences.
+PCR Primers are a required component of the Barcode Data Standard. You will need to tell Geneious which of your fields holds the PCR primer names, and PCR primer sequences. The appropriate fields should be populated automatically.
 
 .. image:: /images/primer_defaults.png
   :align: center
@@ -158,9 +164,36 @@ PCR Primers are a required component of the Barcode Data Standard. You will need
 
 Traces and Sequencing Primers
 -----------------------------
+
+.. note::
+  This component of the Geneious GenBank Submission Plug-in will be changing in the future, but for now follow these instructions for each field.
+
+Experimental Strategy
+  Choose "BARCODE" for this field if you are creating a submission for one of the official BARCODE gene regions (COI for animals, or rbcL and matK for plants). If you are submitting another region, then choose "TARGETED LOCUS".
+
+Sequencing Strategy
+  Always choose "PCR", even for non BARCODE gene regions.
+
+Center Project Name
+  Enter the name of the location where the traces were generated.
+
+Base Calling Program
+  If you generated your traces with an Applied Biosystems sequencer (your trace files will all end with ".ab1"), then enter "KB Basecaller". This is the name of the software that is on all ABI sequencers that decides what each base in your trace files are.
+
+DNA Source Type
+  This will always be "Genomic DNA".
+
+Species Code
+  Choose "scientificName" for this field.
+
+Trace End
+  Leave this as the default value of "*Let Geneious determine*"
+
 .. image:: /images/traces_defaults.png
   :align: center
   :target: /en/latest/_images/traces_defaults.png
+
+Just like for the previous "PCR Primers" section, these fields should all be populated by Geneious automatically.
 
 .. image:: /images/sequencing_primers_defaults.png
   :align: center  
