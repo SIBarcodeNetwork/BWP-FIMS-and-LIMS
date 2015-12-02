@@ -89,6 +89,7 @@
       <rule type="checkInXMLFields" column="monthCollected" list="month" level="error"/>
       <rule type="checkInXMLFields" column="dayCollected" list="day" level="error"/>
       <rule type="checkInXMLFields" column="countryOrOcean" list="country" level="error"/>
+      <rule type='latLngChecker' decimalLatitude='decimalLatitude' decimalLongitude='decimalLongitude' level='error'/>
     </worksheet>
     <lists>
       <list alias="country">
