@@ -183,9 +183,9 @@ DNA Source Type
 Trace End
   Leave this as the default value of "*Let Geneious determine*"
 
-.. figure:: /images/trace_defaults.png
+.. figure:: /images/traces_defaults.png
   :align: center
-  :target: /en/latest/_images/trace_defaults.png
+  :target: /en/latest/_images/traces_defaults.png
 
   **If your version of the Geneious plug-in does not show this exact set of field options for "Traces", then you need to upgrade to version 6.2.**
 
