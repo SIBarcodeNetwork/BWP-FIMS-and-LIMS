@@ -187,7 +187,7 @@ Trace End
   :align: center
   :target: /en/latest/_images/traces_defaults.png
 
-  **If your version of the Geneious plug-in does not show this exact set of field options for "Traces", then you need to upgrade to version 6.2.**
+  **If your version of the Geneious plug-in does not show this exact set of field options for "Traces", then you need to upgrade to version 1.6.2.**
 
 Just like for the previous "PCR Primers" section, these fields should all be populated by Geneious automatically.
 
