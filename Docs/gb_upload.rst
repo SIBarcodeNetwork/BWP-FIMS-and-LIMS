@@ -165,9 +165,6 @@ PCR Primers are a required component of the Barcode Data Standard. You will need
 Traces and Sequencing Primers
 -----------------------------
 
-.. note::
-  This component of the Geneious GenBank Submission Plug-in will be changing in the future, but for now follow these instructions for each field.
-
 Experimental Strategy
   Choose "BARCODE" for this field if you are creating a submission for one of the official BARCODE gene regions (COI for animals, or rbcL and matK for plants). If you are submitting another region, then choose "TARGETED LOCUS".
 
@@ -183,15 +180,14 @@ Base Calling Program
 DNA Source Type
   This will always be "Genomic DNA".
 
-Species Code
-  Choose "scientificName" for this field.
-
 Trace End
   Leave this as the default value of "*Let Geneious determine*"
 
-.. image:: /images/traces_defaults.png
+.. figure:: /images/trace_defaults.png
   :align: center
-  :target: /en/latest/_images/traces_defaults.png
+  :target: /en/latest/_images/trace_defaults.png
+
+  **If your version of the Geneious plug-in does not show this exact set of field options for "Traces", then you need to upgrade to version 6.2.**
 
 Just like for the previous "PCR Primers" section, these fields should all be populated by Geneious automatically.
 
