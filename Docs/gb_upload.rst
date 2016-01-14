@@ -7,7 +7,7 @@ Installing the Geneious Plug-in
 .. note::
 
    GenBank Submission plug-in version 1.6.2, which fixes some critical issues with trace packaging, is in beta mode and therefore only available through direct download. You can download it from `here
-   https://drive.google.com/open?id=0B1W_DinFDL0oRVpWd3VRaHBod2M`_.
+   <https://drive.google.com/open?id=0B1W_DinFDL0oRVpWd3VRaHBod2M>`_.
 
 We will be using Geneious's GenBank Submission plug-in to submit completed sequences to GenBank. The Geneious GenBank Submission Plug-in does all of the hard work of bundling together the various parts of a GenBank submission -- sequence data, specimen metadata, trace files, etc.
 
