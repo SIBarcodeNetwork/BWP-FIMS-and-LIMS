@@ -1,4 +1,4 @@
-var last_update = 'Friday, 22 January, 2016 at 13:14 EST';
+var last_update = 'Friday, 05 February, 2016 at 16:13 EST';
 var totals_data = 
 {
   "mx": {
@@ -22,8 +22,8 @@ var totals_data =
       "total": 0
     },
     "passed": {
-      "total": 714,
-      "unique": 556
+      "total": 788,
+      "unique": 557
     }
   },
   "ke": {
@@ -36,19 +36,19 @@ var totals_data =
       "unique": 816
     },
     "pcr": {
-      "total": 2656,
-      "unique": 735
+      "total": 2679,
+      "unique": 740
     },
     "extraction": {
-      "total": 946,
-      "unique": 753
+      "total": 951,
+      "unique": 758
     },
     "gb": {
       "total": 0
     },
     "passed": {
-      "total": 804,
-      "unique": 551
+      "total": 1141,
+      "unique": 559
     }
   },
   "za": {
@@ -891,10 +891,10 @@ var timeline_data =
       "start": "2015-01-22"
     },
     {
-      "content": "NMK_JSK_003_X01 (18)",
+      "content": "NMK_JSK_003_X01 (23)",
       "group": "1",
       "id": "135",
-      "start": "2014-12-17"
+      "start": "2016-02-03"
     },
     {
       "content": "NMK_JSK_003_PCR01_rbcla-f_rbclr590 (18)",
@@ -1716,13 +1716,13 @@ var timeline_data =
       "content": "NMK_JSK_014_Seq01_rbcLaF (21)",
       "group": "3",
       "id": "272",
-      "start": "2015-07-22"
+      "start": "2015-06-07"
     },
     {
       "content": "NMK_JSK_014_Seq01_rbclr590 (21)",
       "group": "3",
       "id": "273",
-      "start": "2015-07-22"
+      "start": "2015-06-07"
     },
     {
       "content": "NMK_JSK_003_Seq01_Matk1Rkim (18)",
@@ -1866,13 +1866,13 @@ var timeline_data =
       "content": "NMK_JSK_014_Seq01_Matk1rKim (21)",
       "group": "3",
       "id": "297",
-      "start": "2015-12-10"
+      "start": "2015-06-26"
     },
     {
       "content": "NMK_JSK_014_Seq01_Matk3FKIMr (21)",
       "group": "3",
       "id": "298",
-      "start": "2015-08-01"
+      "start": "2015-06-26"
     },
     {
       "content": "NMK_JSK_015_PCR01_MatK1RKim_MatK3FKimR (15)",
@@ -1963,6 +1963,12 @@ var timeline_data =
       "group": "2",
       "id": "313",
       "start": "2016-01-12"
+    },
+    {
+      "content": "NMK_JSK_003_X01_RBCLA-F (23)",
+      "group": "2",
+      "id": "314",
+      "start": "2015-07-07"
     }
   ],
   "mx": [
