@@ -9,6 +9,7 @@ Welcome to the Barcode of Wildlife Project Informatics documentation!
 	* :doc:`fims_spreadsheet_pop`
 	* :doc:`fims_spreadsheet_val`
 * **Biocode Laboratory Information Management System (LIMS)**
+	* :doc:`biocode_plugin`
 	* :doc:`extraction_plates`
 	* :doc:`pcr_plates`
 	* :doc:`cyclesequencing_plates`
@@ -30,6 +31,7 @@ Full Index
 	conventions
 	fims_spreadsheet_pop
 	fims_spreadsheet_val
+	biocode_plugin
 	extraction_plates
 	pcr_plates
 	cyclesequencing_plates
