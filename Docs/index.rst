@@ -3,7 +3,8 @@ Welcome to the Barcode of Wildlife Project Informatics documentation!
 
 * **Background and Getting Started**
 	* :doc:`setup_software`
-	* :doc:`data_standard`
+	* :doc:`barcode_data_standard`
+	* :doc:`bwp_data_standard`
 	* :doc:`conventions`
 * **Field Information Management System (FIMS)**
 	* :doc:`fims_spreadsheet_pop`
@@ -19,6 +20,7 @@ Welcome to the Barcode of Wildlife Project Informatics documentation!
 	* :doc:`sequence_qc`
 	* :doc:`mark_pass`
 	* :doc:`gb_upload`
+	* :doc:`its_annotation`
 
 Full Index
 ----------
@@ -27,7 +29,8 @@ Full Index
 	:maxdepth: 2
 
 	setup_software
-	data_standard
+	barcode_data_standard
+	bwp_data_standard
 	conventions
 	fims_spreadsheet_pop
 	fims_spreadsheet_val
@@ -40,3 +43,4 @@ Full Index
 	sequence_qc
 	mark_pass
 	gb_upload
+	its_annotation
