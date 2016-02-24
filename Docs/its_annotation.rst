@@ -1,3 +1,5 @@
+.. _its_annotation-link:
+
 Annotating for ITS GenBank Upload
 =================================
 

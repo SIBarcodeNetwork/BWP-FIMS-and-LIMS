@@ -139,6 +139,21 @@ matK maturase K
 rbcL ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit
 ==== =============================================================
 
+Non-BARCODE region sequences
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+If you are creating submission files for sequences for protein-coding regions that are not part of the DNA Barcode Data Standard, you can still use the Gene and CDS Features. However, it is very important that you ensure that "Experimental Strategy" in the Traces tab is set to "TARGETED LOCUS". This is reiterated in the "Traces and Sequencing Primers" section below.
+
+If you are creating submission files for sequences that are NOT protein-coding, follow the instructions laid out in the :ref:`its_annotation-link` special SOP.
+
+Here are the Gene and corresponding CDS Product for common non-barcode regions. If you are unsure, look at existing sequence on GenBank.
+
+==== =============
+Gene CDS Product
+==== =============
+CytB cytochrome b
+==== =============
+
 BWP Structured Comments
 -----------------------
 
