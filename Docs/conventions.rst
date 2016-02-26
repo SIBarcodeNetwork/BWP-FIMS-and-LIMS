@@ -14,12 +14,17 @@ Create your plate/batch name from [Institution Code]_[User Initials]_[Sequential
 This name will then be used for the:
 
 * Spreadsheet filename (CBOL_MGT_001.xlsx)
+
 * Dataset Code in FIMS
+
 .. image:: /images/dataset_code.png
 	:align: center
+
 * extractionPlateID field in spreadsheet
+
 .. image:: /images/plateid.png
 	:align: center
+	
 * and will also be incorporated in the plate names in the LIMS system (see below)
 
 LIMS Naming Conventions
