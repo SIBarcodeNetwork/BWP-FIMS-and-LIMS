@@ -4,10 +4,10 @@ Getting Started
 Setting up software
 -------------------
 
-BiSciCol Biocode FIMS
-~~~~~~~~~~~~~~~~~~~~~
+BiSciCol Biocode Field Information Management System (FIMS)
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-The Field Information Management System being used for this project is the Biocode FIMS, which is being developed by the Biological Science Collections (BiSciCol) project. The BWP is using a cloud-hosted version that is available at http://biscicol.org/biocode-fims/. All that you need to use the Biocode FIMS is a spreadsheet program (Excel, Google Sheets, etc.), and a browser (Firefox, Chrome, etc.) It is possible to install a local copy of the FIMS server and tools, and detailed installation instructions can be found here: https://github.com/biocodellc/biocode-fims/wiki/Installation.
+The Field Information Management System being used for the Barcode of Wildlife Project (BWP) is the Biocode FIMS, which is being developed by the Biological Science Collections (BiSciCol) project. The BWP is using a cloud-hosted version that is available at http://biscicol.org. All that you need to use the Biocode FIMS is a spreadsheet program (Excel, Google Sheets, etc.), and a browser (Firefox, Chrome, etc.).
 
 Geneious
 ~~~~~~~~
