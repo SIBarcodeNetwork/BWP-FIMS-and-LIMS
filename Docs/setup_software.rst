@@ -12,7 +12,7 @@ The Field Information Management System being used for the Barcode of Wildlife P
 Geneious
 ~~~~~~~~
 
-The BWP uses the Geneious molecular biology software package to run the LIMS portion of the project, and also for assembly of sequences and submission to GenBank. Geneious is a cross-platform (works equally well on Windows, Mac, and Linux) program that provides a simple GUI (Graphical User Interface) to many classic molecular biology tools in a layout similar to an e-mail client. Geneious is a commercial software that is not free, but BWP is providing institutional licenses to partner institutions. You can find more information about Geneious at their website: http://www.geneious.com/.
+The BWP uses the Geneious molecular biology software package to run the Laboratory Information Management Sysytem (LIMS) portion of the project, and also for assembly of sequences and submission to GenBank. Geneious is a cross-platform (works equally well on Windows, Mac, and Linux) program that provides a simple GUI (Graphical User Interface) to many classic molecular biology tools in a layout similar to an e-mail client. Geneious is a commercial software that is not free, but BWP is providing institutional licenses to partner institutions. You can find more information about Geneious at their website: http://www.geneious.com/.
 
 Geneious Biocode Plug-in
 ~~~~~~~~~~~~~~~~~~~~~~~~
