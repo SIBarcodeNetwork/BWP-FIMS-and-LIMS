@@ -4,12 +4,12 @@ FIMS Spreadsheet Validation and Upload
 Validating and then uploading the spreadsheet
 ---------------------------------------------
 
-Once we have a spreadsheet fully populated, our next step will be to validate and upload the spreadsheet tothe FIMS. The validation step checks every specimen record to make sure that they meet the set of rules established by the project. Go to http://biscicol.org and click the Login button at the top. Log in with your pre-assigned BiSciCol username and password. (You do not need to log in to validate your spreadsheet, but you must be logged in to upload it to the database). After logging in, click on the Tools button at the top, and then choose Validation.
+Once we have a spreadsheet fully populated, our next step will be to validate and upload the spreadsheet tothe FIMS. The validation step checks every specimen record to make sure that they meet the set of rules established by the project. Go to http://biscicol.org and click the Login button at the top. Log in with your pre-assigned BiSciCol username and password. (You do not need to log in to validate your spreadsheet, but you must be logged in to upload it to the database). After logging in, click on the Tools button at the top, and then choose Validate and Load Data.
 
 .. image:: /images/tools_validation.png
   :align: center
 
-On the Valid and Load Data page, click the Choose File button to select your spreadsheet. Select your Project from the Project drop-down. If you are ready to upload your spreadsheet, select the Upload tick box. Once you check that box, the Dataset Code dropdown will appear. You can either leave it as Create New Expedition to upload the spreadsheet as a new dataset, or you can select one of your previously created datasets to overwrite. Ensure that the Public checkbox is ticked, otherwise the LIMS software will not be able to pull in the information. Press Submit. 
+On the Validate and Load Data page, click the Browse button to select your spreadsheet. Select your Project from the Project drop-down. If you are ready to upload your spreadsheet, select the Upload tick box. Once you check that box, the Dataset Code dropdown will appear. You can either leave it as Create New Expedition to upload the spreadsheet as a new dataset, or you can select one of your previously created datasets to overwrite. Ensure that the Public checkbox is ticked, otherwise the LIMS software will not be able to pull in the information from the FIMS. Press Submit. 
 
 .. image:: /images/fims_validation_upload.png
   :align: center
