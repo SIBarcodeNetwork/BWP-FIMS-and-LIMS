@@ -46,3 +46,7 @@ Cycle Sequencing Plate:
 	*[dataset code]_Seq[Sequencing attempt number]_[primer used]_[F or R]*
 
 	Examples: CBOL_MGT_001_Seq01_dgLCO1490_F for the cycle sequencing plate for the forward strand using the dgLC01490 primer; and CBOL_MGT_001_Seq02_dgHCO2198_R for the reverse strand using the dgHCO2198 primer. 
+	
+	
+
+*IMPORTANT* There are different scenarios for dealing with re-runs (extractions, PCRs and sequencing) of subsets of samples from an individual dataset. Please contact us to discuss these scenarios to ensure that you continue to use a manageable workflow in the LIMS.
