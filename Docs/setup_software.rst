@@ -16,3 +16,7 @@ The BWP uses the Geneious molecular biology software package to run the Laborato
 
 Geneious Biocode Plug-in
 ~~~~~~~~~~~~~~~~~~~~~~~~
+You can download the Geneious Biocode Plug-in from the Geneious website: http://www.geneious.com/plugins/biocode-lims
+The LIMS allows you to manage your laboratory and sequence editing workflows.
+
+A wiki containing information on the plugin and an online manual is also found at http://software.mooreabiocode.org/index.php?title=Main_Page
