@@ -1,6 +1,17 @@
 Barcode Data Standard
 =====================
 
+Introduction
+------------
+
+The Barcode Data Standard was established by the Consortium of the Barcode of Life soon after the first scientific paper by Dr. Paul Hebert was published that proposed the method of DNA Barcoding. You can find a link to the official data standard document on the CBOL website at: http://www.barcodeoflife.org/sites/default/files/DWG_data_standards-Final.pdf.
+
+.. image:: /images/data_standard_link.png
+  :align: center
+  :target: /en/latest/_images/data_standard_link.png
+
+The data standard consists of several required and strongly recommended elements that have to do either with specimen metadata or sequence data. I will go through each element, give a brief explanation, and try to highlight any commonly seen mistakes.
+
 +----------------------------------------+---------------------+------------------------------+
 | **Specimen Metadata**                                                                       |
 +========================================+=====================+==============================+
@@ -57,8 +68,18 @@ Specimen Metadata
 Collection Metadata
 ~~~~~~~~~~~~~~~~~~~
 
+Country -- Required
+
+Latitude and Longitude -- Strongly Recommended
+
+Collector Name -- Strongly Recommended
+
+Collection Date -- Strongly Recommended
+
 Voucher Metadata
 ~~~~~~~~~~~~~~~~
+
+
 
 Sequence Metadata
 -----------------
