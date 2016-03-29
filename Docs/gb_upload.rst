@@ -91,7 +91,7 @@ Specimen Voucher
   This will become the "specimen_voucher" field in GenBank. It corresponds with the FIMS field "voucherID", which should be a colon-separated triplet comprised of [institutionCode]:[collectionCode]:[catalogNumber].
 
 Sequence ID
-  This field will not be published as part of the GenBank record, but it is very important because this field will connect the specimen data, sequence data, and trace data. Usually the automatically-generated "Name" field from Geneious will work perfectly for this.
+  This field will not be published as part of the GenBank record, but it is very important because this field will connect the specimen data, sequence data, and trace data. Select the LIMS field "Workflow Name" for this.
 
 Identified by
   This will become the "identified_by" field in GenBank. It corresponds with the FIMS field "identifiedBy". It is required for the BWP Data Standard, but if it is unknown you can select *None*.
