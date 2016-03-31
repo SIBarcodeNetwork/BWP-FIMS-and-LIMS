@@ -19,7 +19,7 @@ var totals_data =
       "unique": 1521
     },
     "gb": {
-      "total": 0
+      "total": 680
     },
     "passed": {
       "total": 788,
@@ -44,7 +44,7 @@ var totals_data =
       "unique": 758
     },
     "gb": {
-      "total": 0
+      "total": 722
     },
     "passed": {
       "total": 1198,
@@ -69,7 +69,7 @@ var totals_data =
       "unique": 998
     },
     "gb": {
-      "total": 0
+      "total": 416
     },
     "passed": {
       "total": 823,
