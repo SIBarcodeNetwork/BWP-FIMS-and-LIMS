@@ -1,43 +1,44 @@
-Welcome to the Barcode of Wildlife Project Informatics documentation!
-=====================================================================
+.. _`Barcode of Wildlife Project`: http://barcodeofwildlife.org/
 
-* **Background and Getting Started**
-	* :doc:`setup_software`
-	* :doc:`barcode_data_standard`
-	* :doc:`bwp_data_standard`
-	* :doc:`conventions`
-* **Field Information Management System (FIMS)**
-	* :doc:`fims_spreadsheet_pop`
-	* :doc:`fims_spreadsheet_val`
-* **Biocode Laboratory Information Management System (LIMS)**
-	* :doc:`biocode_plugin`
-	* :doc:`extraction_plates`
-	* :doc:`pcr_plates`
-	* :doc:`cyclesequencing_plates`
-* **Sequence Assembly and Publication**
-	* :doc:`downloading_traces`
-	* :doc:`assembling_contigs`
-	* :doc:`sequence_qc`
-	* :doc:`mark_pass`
-	* :doc:`gb_upload`
-	* :doc:`its_annotation`
+Welcome to the BWP Informatics Documentation!
+=============================================
 
-Full Index
-----------
+.. image:: https://img.shields.io/badge/Biocode%20Plugin%20Version-2.8.12-green.svg
+    :target: http://assets.geneious.com/plugins/biocode/Biocode_2_8_12.gplugin
+
+.. image:: https://img.shields.io/badge/GenBank%20Upload%20Plugin%20Version-1.6.2-green.svg
+    :target: https://drive.google.com/open?id=0B1W_DinFDL0oRVpWd3VRaHBod2M
+
+This documentation site describes the best practices for the informatics pipeline of the `Barcode of Wildlife Project`_.
 
 .. toctree::
-	:maxdepth: 2
+	:caption: Background and Getting Started
 
 	setup_software
 	barcode_data_standard
 	bwp_data_standard
 	conventions
+
+.. toctree::
+	:maxdepth: 2
+	:caption: FIMS
+
 	fims_spreadsheet_pop
 	fims_spreadsheet_val
+
+.. toctree::
+	:maxdepth: 2
+	:caption: LIMS
+
 	biocode_plugin
 	extraction_plates
 	pcr_plates
 	cyclesequencing_plates
+	
+.. toctree::
+	:maxdepth: 2
+	:caption: Sequence Assembly and Publication
+
 	downloading_traces
 	assembling_contigs
 	sequence_qc
