@@ -62,13 +62,13 @@ LIMS Database Connection
 In the LIMS Location section, start out by selecting "Remote MySQL Database" from the dropdown.
 
 Server Address
-	For "Server Address", copy and paste in "bwp-lims.c8jj3stgjimh.us-east-1.rds.amazonaws.com".
+	For "Server Address", copy and paste in "db.bwplims.info".
 Port
 	For "Port", make sure it is set to "3,306".
 Database Name
-	For "Database Name", enter "labbench".
+	For "Database Name", enter either "kenya_lims", "mexico_lims", or "south_africa_lims" depending on which partner country you are affiliated with.
 Username and Password
-	Finally, for the "Username" and "Password" boxes, enter the LIMS database Username and Password that Mike Trizna assigned to you during training.
+	Finally, for the "Username" and "Password" boxes, enter the LIMS database Username and Password that Mike Trizna assigned to you via email.
 
 Make sure that the checkbox next to "Save" is selected.
 
