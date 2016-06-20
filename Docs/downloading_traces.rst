@@ -1,7 +1,7 @@
 Downloading traces from LIMS
 ============================
 
-The Geneious Assembler Module is used to edit, save, export and ultimately publish the data.
+The Geneious Assembler Module is used to edit, save, export and ultimately publish the sequence data.
 
 You have two options for importing the raw traces to the Assembler Module:
 
@@ -53,7 +53,7 @@ Once the raw trace files have been imported, it is necessary to define the read 
 * Choose the read direction and click "OK". It is only necessary to choose the direction for one set of reads because the other set of reads will be assigned the opposite direction by default.
 * After performing this task, an extra column will be added to the Document Table titled, "Is Forward Read" with a value of true or false.
 
-If the forward and reverse traces are in different folders, it's easiest to import all of the traces from one folder, set the read direction for that folder. and then import the second folder. The Search/Filter dialog box in the upper right-hand corner of the Geneious window can be used to locate a particular direction of reads based on trace names if both forward and reverse traces are imported in one folder.
+If the forward and reverse traces are in different folders, it's easiest to import all of the traces from one folder, set the read direction for that folder and then import the second folder. The Search/Filter dialog box in the upper right-hand corner of the Geneious window can be used to locate a particular direction of reads based on trace names if both forward and reverse traces are imported in one folder.
 
 Traces imported into Geneious directly from disk have none of the specimen's associated FIMS or LIMS meta-data attached. It is possible to annotate traces with the associated meta-data from the FIMS, but this must be done pre-assembly (with the traces) because forward and reverse traces can come from different sequencing plates. 
 

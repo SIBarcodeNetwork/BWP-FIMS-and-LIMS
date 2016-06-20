@@ -1,4 +1,4 @@
-Generating cyclesequencing plates
+Generating cycle sequencing plates
 =================================
 
 Creating the Plate
@@ -11,7 +11,7 @@ Creating the Plate
 * As described for PCR plates, set the thermocycling profile, reaction cocktail, primer, date etc.
 * Save plate once complete.
 
-Attaching raw traces to a Cyclesequencing Plate
+Attaching raw traces to a Cycle sequencing Plate
 -----------------------------------------------
 
 Once cycle sequencing is complete, the raw trace files can be uploaded to the corresponding cycle sequencing plate or set of reactions. 
@@ -19,7 +19,7 @@ Once cycle sequencing is complete, the raw trace files can be uploaded to the co
 To add a trace file to a single cycle sequencing reaction:
 
 * Click open the reaction well of interest.  
-* Select the "Add/Edit Traces" button in the "Edit Wells" dialog window. 
+* In the "Edit Wells" dialog window that now appears, select the "Add/Edit Traces" button. 
 * A new window will appear with an "Add Sequence(s)" button located in the upper left corner of the window. 
 * Click the button and direct Geneious to the location of the raw trace file. Be sure to add only the correct trace (e.g. forward or reverse) to each reaction. 
 * To remove one or more traces from a well, select the trace or traces in question and click "Remove Sequence(s)".
