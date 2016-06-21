@@ -87,7 +87,7 @@ Creating custom PCR cocktails:
 * Any additional information about the new cocktail can be stored in the Notes field. 
 
 .. note::
-It is not possible to modify cocktails once they are created, and cocktails can only be deleted if they are not associated with a workflow. Cocktails are available also to all users. As a result, double check that the cocktail you require doesn't already exist prior to creating it.
+	It is not possible to modify cocktails once they are created, and cocktails can only be deleted if they are not associated with a workflow. Cocktails are available also to all users. As a result, double check that the cocktail you require doesn't already exist prior to creating it.
 
 .. figure:: /images/edit_cocktails.png
   :align: center 
