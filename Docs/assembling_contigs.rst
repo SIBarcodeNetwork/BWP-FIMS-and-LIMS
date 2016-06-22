@@ -22,7 +22,7 @@ De Novo Assemble Window
 ~~~~~~~~~~~~~~~~~~~~~~~
 
 * In the "Data" section, specify the unique part of the trace filename you want to use to match the forward and reverse direction traces. This will depend on how you labelled your raw traces. 
-* In the "Method" section, choose the Assembler and Sensitivity. We recommend the options displayed below, however, it is also possible to choose "Custom Sensitivity" from the dropdown menu, and choose custom parameters (for example, minimum overlap). 
+* In the "Method" section, choose the Assembler and Sensitivity. We recommend the options displayed below, however, it is also possible to choose "Custom Sensitivity" from the dropdown menu, and choose custom parameters (for example, minimum overlap). If you select "Custom Sensitivity" many of the options in the "Advanced" section of the window will now be available for selection.
 * In the "Results" section, insert an Assembly Name. After the assembly is complete all contigs will be deposited in a folder in the local directory with this title. "Save assembly report" and "Save results in a new subfolder" should both be selected. 
 * In the "Advanced" section, ensure that the "Circularize contigs with matching ends" option is unchecked.
 * In the "Trim Sequences" section select "Trim Sequences" and then click on the Option button. A "Trim Options" window appears and this is discussed further below.
@@ -76,7 +76,7 @@ To assemble previously trimmed raw traces into a contig:
 Additional Information
 ----------------------
 
-It is possible to re-trim trace sequences using different parameters at any stage. To do so, select the traces for re-trimming and follow the steps outlined above. The only difference is the "Annotate new trimmed regions" option should be selected to have the new trims replace the old trims. When a trace sequence is re-trimmed, it stores the history of trims in the "Notes" tab for each trace.
+It is possible to re-trim trace sequences using different parameters at any stage. To do so, select the traces for re-trimming and follow the steps outlined above. The only difference is the "Annotate new trimmed regions" option should be selected to have the new trims replace the old trims. When a trace sequence is re-trimmed, it stores the history of trims in the "Info" tab for each trace.
 
 Manually trimming traces is also an option. To manually trim a trace, select a region at the end of the trace in the Sequence View, click "Annotate" and choose "Trimmed" for the annotation type.  If a trace has multiple trimmed annotations for the same region, the largest trimmed annotation will be used.
 
