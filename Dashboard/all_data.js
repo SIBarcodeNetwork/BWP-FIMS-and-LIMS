@@ -1,4 +1,4 @@
-var last_update = 'Monday, 27 June, 2016 at 12:37 EST';
+var last_update = 'Monday, 27 June, 2016 at 14:21 EST';
 var totals_data = {
   "ke": {
     "fims": {
@@ -6,8 +6,8 @@ var totals_data = {
       "unique": 815
     }, 
     "extraction": {
-      "total": 1146, 
-      "unique": 924
+      "total": 978, 
+      "unique": 783
     }, 
     "pcr": {
       "total": 2427, 
@@ -31,8 +31,8 @@ var totals_data = {
       "unique": 1837
     }, 
     "extraction": {
-      "total": 1818, 
-      "unique": 1664
+      "total": 1650, 
+      "unique": 1523
     }, 
     "pcr": {
       "total": 6317, 
@@ -56,8 +56,8 @@ var totals_data = {
       "unique": 980
     }, 
     "extraction": {
-      "total": 1170, 
-      "unique": 1093
+      "total": 1002, 
+      "unique": 1000
     }, 
     "pcr": {
       "total": 2324, 
