@@ -43,6 +43,7 @@ To bulk upload traces to a cycle sequencing plate or set of reactions:
 * After all traces have been attached, click "OK" to save. 
 * To double check that the traces have successfully attached the user can change the display options of the cycle sequencing plate so that # Traces is displayed. If the traces have attached correctly, wells should display "# Traces: 1".
 
+.. figure:: /images/cycseq_display_number_traces.png
   :align: center 
 
 * With the traces now attached to their corresponding cycle sequencing reactions, they are ready to be downloaded into the Geneious Assembler module. 
