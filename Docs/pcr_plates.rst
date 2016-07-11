@@ -21,7 +21,7 @@ Searches are restricted to particular types of documents by deselecting the chec
 .. figure:: /images/search_window_expanded.png
   :align: center
 
-Creating a PCR Plate from an existing Extraction Plate
+Creating a PCR Plate from an existing extraction plate
 ------------------------------------------------------
 
 From this point forward, generating new plates, whether PCR or cycle sequencing, is very similar to the way the extraction plate is generated. Geneious can use an existing plate as a guide to create a new plate, so that new reactions are appended onto corresponding workflows. To do this, select an existing plate from the Biocode LIMS plug-in Search Results Window found in the Document Table.
@@ -40,7 +40,7 @@ From this point forward, generating new plates, whether PCR or cycle sequencing,
 .. figure:: /images/empty_pcr_plate.png
   :align: center 
 
-* Enter a plate name in the box provided. This name should be descriptive and unique to allow easy and successful searching in the LIMS. The BWP naming conventions protocol is found here: http://bwp-informatics.readthedocs.io/en/latest/conventions.html
+* Enter a plate name in the box provided. This name should be descriptive and unique to allow easy and successful searching in the LIMS. (See :ref:`lims_conventions-link`)
 * The next step is to select the thermocycling protocol that was used for this PCR plate. The Geneious LIMS stores thermocycling profiles and these are found in the "Example Thermocycling" dropdown menu in the New PCR plate Toolbar. Creating new profiles is described in the Additional Information section at the end of this document.
 * Next, to edit all wells on the PCR plate, select "Edit All Wells". Alternatively, to edit individual wells, highlight the selected wells in the plate and click "Edit Selected Wells" in the plate toolbar. In both cases the "Edit Wells" window opens. 
 
@@ -51,7 +51,7 @@ From this point forward, generating new plates, whether PCR or cycle sequencing,
 * Most values can simply be entered into a dialog box, with the exception of PCR cocktails, cycle sequencing cocktails, thermocycler profiles, and primers which are set elsewhere. 
 * The target locus can be selected in the "Locus" drop-down list. This list is pre-populated, however, it can be manually edited to include additional loci for use in the LIMS. 
 * A PCR reaction can be marked as "not run", "run", "passed" or "failed". 
-* The forward and reverse PCR primers are selected using the "Choose" button which points to a selected folder on the local directory where primers are stored by the user.
+* The forward and reverse PCR primers are selected using the "Choose" button which points to a selected folder on the Local Directory where primers are stored by the user. (See :ref:`creating_primers-link`)
 * The reaction cocktail can be chosen from a list of existing cocktails, or by creating a new cocktail, described in the Additional Information section at the end of this document.
 * Gel images can be uploaded by clicking the "Gel Images" button in the plate window and pointing to the relevant file. More information on attaching a gel image and scoring is available in the Additional Information section below.
 * Once all editing of the plate is complete, Click OK. 
@@ -59,7 +59,7 @@ From this point forward, generating new plates, whether PCR or cycle sequencing,
 Additional Information
 ----------------------
 
-Creating Thermocycling Protocols:
+Creating thermocycling protocols:
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 * To create custom thermocycler profiles, click "View/Add Thermocycles" in the "New PCR" windown.
@@ -92,7 +92,7 @@ Creating custom PCR cocktails:
 .. figure:: /images/edit_cocktails.png
   :align: center 
 
-Attaching and Scoring Gel Images:
+Attaching and scoring gel images:
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Gel images can be attached to all types of plates at various points in the pipeline. If attaching a gel (or gels) when creating a new plate click the "Attach GEL image" button found in the toolbar of the plate. When attaching a gel or gels to an existing plate, click "GEL images" in the plate's toolbar. In both cases the "Edit Gel Images" window will appear. Click "Add", then browse to find the image or image files to be attached. Geneious will accept images in JPEG, GIF, PNG, and TIFF formats. Notes can also be added each gel image at this point. 

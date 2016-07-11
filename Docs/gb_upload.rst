@@ -23,8 +23,9 @@ Click "Install", and Geneious will start downloading it from the Internet. If al
   :align: center
   :target: /en/latest/_images/install_success.png
 
-Using the Plug-in
+Using the plug-in
 -----------------
+
 Because traces are a required part of a BARCODE keyword record on GenBank, **use the Assembly as the basis of GenBank submission.**
 
 Organize the assemblies you want to submit, and then go to Tools > Submit to GenBank. Make sure to only select assemblies from one gene at a time. For example, you will have to make a separate submission package for rbcL and matK sequences.
@@ -38,6 +39,7 @@ You will see a window appear that has the following sections. Each section is de
 
 Submission Details
 ------------------
+
 The first part of the GenBank submission deals with filling out the contact details and attributions for your sequence submission, as well as choosing how to submit to GenBank. Give the "Submission Name" field a descriptive name for your submission. This entry will not show up in the GenBank record. Also, be sure to select the option of "Save a local file (.tar)".
 
 .. image:: /images/submission_details.png
@@ -71,8 +73,9 @@ Publication Status and Title
 
   This portion of a sample GenBank record shows how the different parts of the Publisher Details section will appear when the record is published.
 
-Field Mapping
--------------
+Fields Mapping
+--------------
+
 The next part of the GenBank submission, will be to map all of the different specimen metadata fields to your GenBank record.
 
 .. figure:: /images/genbank_fields.png
@@ -171,6 +174,7 @@ This window will appear when you check the button next to "Include structured co
 
 Consensus and Primers
 ---------------------
+
 Since we are submitting from an assembly of traces, we need to specify to Geneious how to calculate the sequence to submit to GenBank. Keep the default settings.
 
 .. image:: /images/consensus_defaults.png

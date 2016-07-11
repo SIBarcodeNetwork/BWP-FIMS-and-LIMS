@@ -1,4 +1,4 @@
-Marking Assemblies as Pass or Fail in LIMS
+Marking assemblies as Pass or Fail in LIMS
 ==========================================
 
 Using the "Mark as Pass in LIMS" tool

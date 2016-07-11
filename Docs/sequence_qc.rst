@@ -1,10 +1,10 @@
-Quality Control of Assembled Contigs
+Quality control of assembled contigs
 ====================================
 
 Go to the relevant folder in the local directory where the assembled bidirectional contigs are stored.
 Select and open an assembly.
 
-Manually Editing Assemblies
+Manually editing assemblies
 ---------------------------
 
 * Check the "Translation" option in the right hand menu of the Display window 
@@ -19,7 +19,7 @@ Manually Editing Assemblies
 * A manual edit ONLY needs to made if you feel the consensus sequences has been called incorrectly (or there is a gap that needs to be deleted). If Geneious calls the consensus sequence correctly, NO changes should be made to individual traces.
 * If you are unhappy with the trimmed portions, you can edit these manually by clicking on, and dragging, the red bar indicating the trimmed region.
 
-Checking Sequence Quality with Alignments
+Checking sequence quality with alignments
 -----------------------------------------
 
 A second quality check is made by aligning your sequences based on the gene - align COI sequences together, rbcL together, etc. 

@@ -1,9 +1,9 @@
-Naming Conventions
+Naming conventions
 ==================
 
 .. _conventions-link:
 
-FIMS Naming Conventions
+FIMS naming conventions
 -----------------------
 
 Once specimens are available to be processed in the lab, you must divide the specimens into a batch, or batches, of specimens that will be processed together through the full laboratory pipeline (extraction through to sequencing). Each batch is also known as a "plate" or "dataset", terms that will be used repeatedly throughout our instructions for the FIMS and LIMS. Specimen spreadsheets must be completed for each plate of specimens prior to their processing in the lab. 
@@ -27,7 +27,9 @@ This name will then be used for the:
 	
 * and will also be incorporated in the plate names in the LIMS system (see below)
 
-LIMS Naming Conventions
+.. _lims_conventions-link:
+
+LIMS naming conventions
 -----------------------
 
 Extraction Plate:

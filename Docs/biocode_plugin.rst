@@ -1,8 +1,10 @@
 Connecting with the Geneious Biocode Plugin
 ===========================================
 
-BWP Biocode Plugin Connection Details
+BWP Biocode Plugin connection details
 -------------------------------------
+
+Install the latest version of the Biocode Plug-in. Check the :ref:`updates-link` section of the Home Page to see the latest version available. If you do not have the latest version, then follow the instructions in the :ref:`plugins-link` section of the previous page.
 
 Once the Biocode plugin has been successfully installed, you can now connect by right-clicking on the Biocode icon in the Sources panel and click "Login".
 

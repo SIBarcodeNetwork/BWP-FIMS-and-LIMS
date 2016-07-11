@@ -8,7 +8,7 @@ Since ITS1 and ITS2 are not genes and do not encode proteins, you cannot use the
 Here are a couple of example ITS records that show what we will be trying to achieve: http://www.ncbi.nlm.nih.gov/nuccore/JN253283
 and http://www.ncbi.nlm.nih.gov/nuccore/KT960182
 
-Adding the Annotation
+Adding the annotation
 ---------------------
 
 To annotate an assembly, make sure you are on the Contig View tab, and click select the consensus sequence by clicking the Consensus label.
@@ -65,7 +65,7 @@ Repeat the annotation trimming procedure on the right side.
 
 Finally, click the Save button to save this Annotation.
 
-Submitting Annotated Sequences to GenBank
+Submitting annotated sequences to GenBank
 -----------------------------------------
 
 Make sure to follow this manual annotation procedure for all of the ITS sequences you will be submitting to GenBank.

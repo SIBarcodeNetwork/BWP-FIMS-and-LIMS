@@ -5,8 +5,10 @@ Welcome to the BWP Informatics Documentation!
 
 This documentation site describes the best practices for the informatics pipeline of the `Barcode of Wildlife Project`_.
 
+.. _updates-link:
+
 Updates
-~~~~~~~
+-------
 
 .. image:: https://img.shields.io/badge/Biocode%20Plugin%20Version-3.0.0-green.svg
     :target: http://assets.geneious.com/plugins/biocode/Biocode_3_0_0.gplugin

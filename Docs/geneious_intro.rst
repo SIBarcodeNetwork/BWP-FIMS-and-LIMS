@@ -1,8 +1,8 @@
-Geneious
-========
+Geneious introduction
+=====================
 
-Geneious Layout
-~~~~~~~~~~~~~~~
+Geneious layout
+---------------
 
 Here is the layout of the Geneious window. 
 
@@ -16,9 +16,10 @@ On the right-hand side is the **Help and Tutorial Panel**, where you can read a 
 
 On the left-hand side is the **Sources Panel** which includes the **Local Directory** and list of **Services**. The **Local Directory** is where you permanently store your documents such as primers, raw traces, contigs, alignments, trees etc.
 
+.. _plugins-link:
 
-Geneious Plugins
-~~~~~~~~~~~~~~~~
+Geneious plugins
+----------------
 
 Plugins are downloadable modules that can add new functionality to the program. 
 
@@ -29,9 +30,10 @@ Click on "Tools" in the Menu bar then select "Plugins" from the dropdown menu. A
 One way to install a plugin is to click on the "Install" button for the relevant plugin in the available list, or alternatively, you can download the plugin from an outside source and then click on "Install plugin from a gplugin file".
 Within this window you can also uninstall installed plugins, get plugin information such as versions, check for plugin updates etc.  
 
+.. _creating_primers-link:
 
-Creating Primers
-~~~~~~~~~~~~~~~~
+Creating primers
+----------------
 
 To add a primer to your Local directory, you should first highlight the desination folder for the primer file. If you need to create a new folder in the directory, highlight the Local folder in the Sources panel, Click on "File" in the Menubar, and enter the new folder name. 
 

@@ -24,34 +24,53 @@ To create an extraction plate:
   :align: center
 
 * Insert a name for the extraction plate into the relevant field in the window.
+
 * Click the "Bulk Edit" button (found in the toolbar, as seen in image above). This will allow you to attach the  FIMS meta-data from all tissues to each tissue's associated workflow in LIMS. 
+
 * A new "Edit Plate" window will appear. 
 
 .. figure:: /images/get_tissue_ids.png
   :align: center
 
 * Click on "Tools" and select "Get Tissue ID's From Archive Plate" from the dropdown menu.
+
 * Another new window "Get FIMS plate" will appear.
 
 .. figure:: /images/enter_plate_id.png
   :align: center
 
 * Here you must enter the extractionPlateID value that was included in the FIMS spreadsheet for this plate/dataset. Click "OK" once complete.
+
 * A new window will appear indicating the LIMS is fetching the tissue ID's from the FIMS database. When successful, the "Tissue Sample Id" fields in the "Edit Plate" window will be populated. Alternatively, if you receive a message indicating that the plate cannot be found in the FIMS, check:
 
 	* that the plate ID is spelled exactly as it was included in the FIMS spreadsheet. 
+
 	* that the FIMS spreadsheet was successfully uploaded to the FIMS; and
+
 	* that when you logged in to the LIMS that you selected the correct FIMS field for the "Plate name field" of the log-in window.
+
 * After successful upload, select "Generate New Extraction IDs" from the "Tools" dropdown menu. The LIMS will automatically populate the second column of the window (Extraction Id). The .1 indicates this is the first extraction in the LIMs for that particular tissue, .2 would indicate it is the second and so on.
-* Finally you want to import the Extraction Barcode's for each DNA extract. This can be done by selecting "Import Extraction Barcodes from File" from the "Tools" dropdown menu and pointing to the  the file generated from the plate scanner or alternatively you can copy and paste the data from the file generated from the plate scanner into that column in the window. Since this second option is open to user error, we strongly advise against using it unless absolutely necessary.
+
+* Finally you want to import the Extraction Barcode's for each DNA extract. This can be done in two different ways:
+
+* *Option 1*: This is our preferred method. Select "Import Extraction Barcodes from FIMS" from the "Tools" dropdown menu. A new window will appear, and select the FIMS column that contains the extraction barcodes from the dropdown menu - in our case it is "extractionBarcode". For this to work, you must ensure that your FIMS spreadsheet contains the unique extraction barcodes.
+
+.. figure:: /images/import_extraction_barcode_FIMS.png
+  :align: center
+
+* *Option 2*: Select "Import Extraction Barcodes from File" from the "Tools" dropdown menu. Select the file generated from the plate scanner or alternatively you can copy and paste the data from the file generated from the plate scanner into that column in the window. Since copy and pasting is open to user error, we strongly advise against using it unless absolutely necessary.
+
 * Once this is complete Click "OK" and you will be brought back to the "New Extraction" window.
+
 * Here, click on "Edit All Wells" to open a new window. 
 
 .. figure:: /images/edit_extraction_wells.png
   :align: center
 
 * This window allows you to enter information about the extraction - date, method, technician etc. 
+
 * Once complete, click "OK" which will bring you back to the "New Extraction" window. 
+
 * Click "OK" in this window for the LIMS to save the extraction plate.
 
 Additional Information:
@@ -77,7 +96,7 @@ The "Edit All Wells" or "Edit Selected Wells" button, found in the toolbar of th
 
 The "Edit Wells" dialog window will open (see image above), and it has a column of checkboxes on its left hand side. Values in the checked fields will be applied to all selected reactions, and unchecked fields will be left as they are. Most values can simply be entered into a dialog box. Make sure to save the plate after making any edits to it.
 
-More information on the Display options in the plate:
+More information on the Display Options in the plate:
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Clicking the "Display Options" button, found in the toolbar of the New Extraction plate window, opens the "Display" dialog window (below). The split-pane allows the user to choose any number of fields from the FIMS or LIMS database for display in the wells. 

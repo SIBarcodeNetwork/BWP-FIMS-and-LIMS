@@ -1,4 +1,4 @@
-Assembling Contigs
+Assembling contigs
 ==================
 
 Once sequencing is complete, the raw data needs to be assembled into bidirectional contigs. The Geneious assembler module is used to edit, save, export and ultimately publish the data.
@@ -11,14 +11,14 @@ Two slightly different pipelines can be employed for trimming the raw traces and
 .. note::
 	Any settings or parameter values outlined below are guidelines. It is recommended that the user evaluates different trim and assembly settings to establish what is optimal for the group and/or marker being analyzed.
 
-OPTION 1: Trimming and Assembling in One Go
--------------------------------------------
+OPTION 1: Trimming and assembling at the same time
+--------------------------------------------------
 
 * Select all the raw traces you want to assemble into a contig.
 * Click on "Align/Assemble" in the toolbar.
 * Select "De Novo Assemble" in the dropdown menu. 
 
-De Novo Assemble Window
+De Novo Assemble window
 ~~~~~~~~~~~~~~~~~~~~~~~
 
 * In the "Data" section, specify the unique part of the trace filename you want to use to match the forward and reverse direction traces. This will depend on how you labelled your raw traces. 
@@ -30,7 +30,7 @@ De Novo Assemble Window
 .. figure:: /images/de_novo_assemble.png
   :align: center 
 
-Trim Options Window
+Trim Options window
 ~~~~~~~~~~~~~~~~~~~
 
 When creating your sequencing assemblies, be sure to select the correct options in the "Trim Options" window.
@@ -57,7 +57,7 @@ Check "Trim Primers" to trim the appropriate PCR primers from each raw trace. Cl
 * Once all settings are complete hit "OK". This will bring you back to the "De Novo Assemble" window where clicking "OK" will begin the trim/assembly process. All the assemblies will be deposited into the folder you specified/named in your local directory. When the operation is finished, an Assembly Report and list of Consensus Sequences will also be added to the folder. Geneious will generate a new subfolder each time an assembly is run.
 
 
-OPTION 2:Trimming and Assembling in Two Separate Steps
+OPTION 2:Trimming and assembling in two separate steps
 ------------------------------------------------------
 
 To trim traces:
