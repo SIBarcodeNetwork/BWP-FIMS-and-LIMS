@@ -10,7 +10,7 @@ The Barcode Data Standard was established by the Consortium of the Barcode of Li
   :align: center
   :target: /en/latest/_images/data_standard_link.png
 
-The data standard consists of several required and strongly recommended elements that have to do either with specimen metadata or sequence data. I will go through each element, give a brief explanation, and try to highlight any commonly seen mistakes.
+The data standard consists of several required and strongly recommended elements that have to do either with specimen metadata or sequence data. We will go through each element, give a brief explanation, and try to highlight any commonly seen mistakes.
 
 +----------------------------------------+---------------------+------------------------------+
 | **Specimen Metadata**                                                                       |
@@ -78,9 +78,9 @@ Collector Name -- Strongly Recommended
 	The name of the person(s) or institute that collected the specimen. GenBank does not provide any guidance on how to structure name ("Give Name Surname" vs. "Surname, Given Name") or how to group multiple names, but at least be consistent.
 
 Collection Date -- Strongly Recommended
-	The date on which the specimen was collected. Date ranges are supported by providing two collection dates from among the supported value formats, delimited by a forward-slash character.
+	The date(s) on which the specimen was collected. Date ranges are supported by providing two collection dates from among the supported value formats, delimited by a forward-slash character.
 
-	Here are the supported value formats (I am leaving out the different time formats), with examples: 
+	Here are the supported value formats, with examples: 
 
 		* "DD-Mmm-YYYY": 01-Jan-2016
 		* "Mmm-YYYY": Jan-2016
@@ -95,7 +95,11 @@ Voucher Metadata
 Specimen Voucher -- Required
 	The specimen voucher field is the most important portion of the Barcode Data Standard, because it serves as the bridge between genetic data and specimen data. This field is even more important for plants, because the plant barcode consists of more than one gene region. The two sequences that make up a plant barcode are published as two separate GenBank records, so a unique specimen voucher field is the only thing that asserts that these sequences came from the same individual.
 	
-	Not only is a unique identifier required for the specimen voucher, but it also needs to be in a specific format. It is very easy to miss since this format is specified in a footnote, but the data standard document specifies that the voucher specimen identifier should use a triplet structure based on elements of the Darwin Core (DwC) separated by a colon (institutionCode:collectionCode:catalogNumber). To ensure that specimen voucher identifiers are unique and traceable, CBOL maintains the Global Registry of Biorepositories (GRBio.org), which is a community-curated directory of all biological collections in natural history museums, herbaria, and other biorepositories.
+	Not only is a unique identifier required for the specimen voucher, but it also needs to be in a specific format. It is very easy to miss since this format is specified in a footnote, but the data standard document specifies that the voucher specimen identifier should use a triplet structure based on elements of the Darwin Core (DwC) separated by a colon::
+
+		institutionCode:collectionCode:catalogNumber
+
+	To ensure that specimen voucher identifiers are unique and traceable, CBOL maintains the Global Registry of Biorepositories (`GRBio.org <http://grbio.org/>`_), which is a community-curated directory of all biological collections in natural history museums, herbaria, and other biorepositories.
 
 Organism -- Required
 	The scientific name of the organism that provided the sequenced genetic material. The text from the data standard reads "the name of a formally described species or a provisional label for an unpublished species", which allows for the exception of allowing for organism names only identified to the Order or Family level. It is recommended by GenBank to give provisional names the values of the specimen voucher for reproducibility reasons.

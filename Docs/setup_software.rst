@@ -25,6 +25,22 @@ Geneious Software Program
 
 The BWP uses the Geneious molecular biology software package to run the Laboratory Information Management Sysytem (LIMS) portion of the project, and also for assembly of sequences and submission to GenBank. Geneious is a cross-platform (works equally well on Windows, Mac, and Linux) program that provides a simple GUI (Graphical User Interface) to many classic molecular biology tools in a layout similar to an e-mail client. Geneious is a commercial software that is not free, but BWP is providing institutional licenses to partner institutions. You can find more information about Geneious at their website: http://www.geneious.com/.
 
+
+Geneious Plugins
+~~~~~~~~~~~~~~~~
+Plugins are downloadable modules that can add new functionality to the program. 
+
+Click on "Tools" in the Menubar then select "Plugins" from the dropdown menu. A new window will open and the "Plugins and Features" tab contains information on the available and installed plugins. 
+
+.. image:: /images/plugin_install_window.png
+
+One way to install a plugin is to click on the "Install" button for the relevant plugin in the available list, or alternatively, you can download the plugin from an outside source and then click on "Install plugin from a gplugin file".
+Within this window you can also uninstall installed plugins, get plugin information such as versions, check for plugin updates etc.
+
+
+
+
+
 Laboratory Information Management System (LIMS) - Geneious Biocode Plug-in
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 

@@ -1,4 +1,4 @@
-Generating PCR plates
+Generating PCR Plates
 =====================
 
 Searching for existing plates

@@ -69,14 +69,15 @@ To trim traces:
 A "Trim Ends" window will open and this is essentially the same as the "Trim Options" window described earlier. Proceed with directions as laid out for that window.
 
 To assemble previously trimmed raw traces into a contig:
-* Select all of the traces to assemble (and a reference sequence or list if applicable) then click the "Align/Assemble" drop-down button in the Toolbar. Select "De Novo Assemble". 
+* Select all of the traces to assemble (and a reference sequence or list if applicable) then click the "Align/Assemble" drop-down button in the Toolbar. 
+* Select "De Novo Assemble". 
 * The "De Novo Assemble" window opens. See previous section for description of the options available in this window. The only difference is noted below.
 * Since the trace sequences were previously trimmed, select "Use existing trim regions" in the Trim Options part of the window. 
 
 Additional Information
 ----------------------
 
-It is possible to re-trim trace sequences using different parameters at any stage. To do so, select the traces for re-trimming and follow the steps outlined above. The only difference is the "Annotate new trimmed regions" option should be selected to have the new trims replace the old trims. When a trace sequence is re-trimmed, it stores the history of trims in the "Info" tab for each trace.
+It is possible to re-trim trace sequences using different parameters at any stage. To do so select the traces for re-trimming and follow the steps outlined above. The only difference is the "Annotate new trimmed regions" option should be selected to have the new trims replace the old trims. When a trace sequence is re-trimmed, it stores the history of trims in the "Info" tab for each trace.
 
 Manually trimming traces is also an option. To manually trim a trace, select a region at the end of the trace in the Sequence View, click "Annotate" and choose "Trimmed" for the annotation type.  If a trace has multiple trimmed annotations for the same region, the largest trimmed annotation will be used.
 

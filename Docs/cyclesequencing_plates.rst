@@ -1,7 +1,7 @@
 Generating cycle sequencing plates
-=================================
+==================================
 
-Creating the Plate
+Creating the plate
 ------------------
 
 * To append new cycle sequencing reactions onto existing PCR workflows, use the Geneious LIMS search window to find the corresponding PCR plate. 
@@ -9,9 +9,11 @@ Creating the Plate
 * Select "cycle sequencing" from the drop-down menu for plate type. A cycle sequencing plate, similar to a PCR plate, will be generated. 
 * Cycle sequencing plates can be edited in the same manner as PCR plates are edited using the "Edit Wells" window.
 * As described for PCR plates, set the thermocycling profile, reaction cocktail, primer, date etc.
+* Also set the direction as Forward or Reverse. 
+* If your cycle sequencing plate contains reactions for both directions, then highlight the forward reactions, click on "Edit Selected Wells" and set the direction and primer. Do the same for the remaining reactions in the opposite direction.
 * Save plate once complete.
 
-Attaching raw traces to a Cycle sequencing Plate
+Attaching raw traces to a cycle sequencing plate
 -----------------------------------------------
 
 Once cycle sequencing is complete, the raw trace files can be uploaded to the corresponding cycle sequencing plate or set of reactions. 
@@ -39,5 +41,8 @@ To bulk upload traces to a cycle sequencing plate or set of reactions:
   :align: center 
 
 * After all traces have been attached, click "OK" to save. 
-* To double check that the traces have successfully attached the user can change the display options of the cycle sequencing plate so that # Traces is displayed. 
+* To double check that the traces have successfully attached the user can change the display options of the cycle sequencing plate so that # Traces is displayed. If the traces have attached correctly, wells should display "# Traces: 1".
+
+  :align: center 
+
 * With the traces now attached to their corresponding cycle sequencing reactions, they are ready to be downloaded into the Geneious Assembler module. 
