@@ -1,4 +1,4 @@
-var last_update = 'Wednesday, 21 September, 2016 at 18:18 EST';
+var last_update = 'Thursday, 22 September, 2016 at 09:15 EST';
 var totals_data = {
   "ke": {
     "fims": {
