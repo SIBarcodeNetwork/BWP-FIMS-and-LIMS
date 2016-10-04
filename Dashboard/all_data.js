@@ -1,4 +1,4 @@
-var last_update = 'Thursday, 22 September, 2016 at 09:15 EST';
+var last_update = 'Tuesday, 04 October, 2016 at 13:53 EST';
 var totals_data = {
   "ke": {
     "fims": {
@@ -22,13 +22,13 @@ var totals_data = {
       "unique": 583
     },
     "gb": {
-      "total": 0
+      "total": 925
     }
   },
   "mx": {
     "fims": {
-      "total": 1837,
-      "unique": 1837
+      "total": 1854,
+      "unique": 1854
     },
     "extraction": {
       "total": 1650,
@@ -43,11 +43,11 @@ var totals_data = {
       "unique": 1275
     },
     "passed": {
-      "total": 4053,
+      "total": 4059,
       "unique": 844
     },
     "gb": {
-      "total": 0
+      "total": 1435
     }
   },
   "za": {
@@ -60,7 +60,7 @@ var totals_data = {
       "unique": 1000
     },
     "pcr": {
-      "total": 2327,
+      "total": 2342,
       "unique": 967
     },
     "sequenced": {
@@ -72,7 +72,7 @@ var totals_data = {
       "unique": 695
     },
     "gb": {
-      "total": 0
+      "total": 827
     }
   }
 };
