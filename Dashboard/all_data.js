@@ -1,17 +1,17 @@
-var last_update = 'Tuesday, 04 October, 2016 at 13:53 EST';
+var last_update = 'Thursday, 27 October, 2016 at 13:07 EST';
 var totals_data = {
   "ke": {
     "fims": {
-      "total": 815,
-      "unique": 815
+      "total": 917,
+      "unique": 917
     },
     "extraction": {
-      "total": 978,
-      "unique": 783
+      "total": 1001,
+      "unique": 806
     },
     "pcr": {
-      "total": 2464,
-      "unique": 761
+      "total": 2487,
+      "unique": 784
     },
     "sequenced": {
       "total": 3642,
@@ -39,21 +39,21 @@ var totals_data = {
       "unique": 1521
     },
     "sequenced": {
-      "total": 5281,
-      "unique": 1275
+      "total": 5367,
+      "unique": 1276
     },
     "passed": {
-      "total": 4059,
-      "unique": 844
+      "total": 4141,
+      "unique": 861
     },
     "gb": {
-      "total": 1435
+      "total": 1535
     }
   },
   "za": {
     "fims": {
-      "total": 980,
-      "unique": 980
+      "total": 1052,
+      "unique": 1052
     },
     "extraction": {
       "total": 1002,
@@ -64,12 +64,12 @@ var totals_data = {
       "unique": 967
     },
     "sequenced": {
-      "total": 3731,
+      "total": 3758,
       "unique": 883
     },
     "passed": {
-      "total": 2516,
-      "unique": 695
+      "total": 2540,
+      "unique": 707
     },
     "gb": {
       "total": 827
