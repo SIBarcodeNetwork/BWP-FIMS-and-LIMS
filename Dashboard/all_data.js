@@ -1,4 +1,4 @@
-var last_update = 'Wednesday, 30 November, 2016 at 17:07 EST';
+var last_update = 'Wednesday, 11 January, 2017 at 12:46 EST';
 var totals_data = {
   "ke": {
     "fims": {
@@ -6,8 +6,8 @@ var totals_data = {
       "unique": 985
     },
     "extraction": {
-      "total": 1080,
-      "unique": 885
+      "total": 1125,
+      "unique": 930
     },
     "pcr": {
       "total": 2668,
@@ -27,8 +27,8 @@ var totals_data = {
   },
   "mx": {
     "fims": {
-      "total": 1854,
-      "unique": 1854
+      "total": 1442,
+      "unique": 1442
     },
     "extraction": {
       "total": 1650,
@@ -60,16 +60,16 @@ var totals_data = {
       "unique": 1173
     },
     "pcr": {
-      "total": 2466,
-      "unique": 1055
+      "total": 2482,
+      "unique": 1071
     },
     "sequenced": {
-      "total": 3954,
-      "unique": 973
+      "total": 4062,
+      "unique": 1021
     },
     "passed": {
-      "total": 2623,
-      "unique": 717
+      "total": 2696,
+      "unique": 748
     },
     "gb": {
       "total": 827
