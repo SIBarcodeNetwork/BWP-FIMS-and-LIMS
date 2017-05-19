@@ -1,4 +1,4 @@
-var last_update = 'Friday, 31 March, 2017 at 09:44 EST';
+var last_update = 'Friday, 19 May, 2017 at 09:34 EST';
 var totals_data = {
   "ke": {
     "fims": {
@@ -27,8 +27,8 @@ var totals_data = {
   },
   "mx": {
     "fims": {
-      "total": 1475,
-      "unique": 1475
+      "total": 1571,
+      "unique": 1571
     },
     "extraction": {
       "total": 1683,
@@ -43,7 +43,7 @@ var totals_data = {
       "unique": 1321
     },
     "passed": {
-      "total": 4167,
+      "total": 4169,
       "unique": 861
     },
     "gb": {
