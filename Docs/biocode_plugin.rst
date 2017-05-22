@@ -32,7 +32,7 @@ In the Field Database Connection section, start out by selecting "Biocode FIMS" 
   :align: center
   :target: /en/latest/_images/biocode_fims_options.png
 
-This will auto-fill the Host box with "http://biscicol.org". Enter the FIMS Username and Password that Mike Trizna assigned to you during training. Make sure to click the "Save" box, and then the "Authenticate" button to ensure you can connect to FIMS.
+This will auto-fill the Host box with "http://biscicol.org". **You will need to manually change this entry to "http://www.biscicol.org". This new address will be fixed in future versions of the Biocode plug-in, but this manual correction is necessary until then.** Enter the FIMS Username and Password that Mike Trizna assigned to you during training. Make sure to click the "Save" box, and then the "Authenticate" button to ensure you can connect to FIMS.
 
 After authenticating, the Project drop-down will now be populated with only the FIMS projects that you have access to. Choose the project that corresponds with your country.
 
