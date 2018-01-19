@@ -58,3 +58,10 @@ Updates
 	mark_pass
 	gb_upload
 	its_annotation
+
+.. toctree::
+	:maxdepth: 2
+	:caption: Troubleshooting
+
+	lims_connection
+	lims_migration
