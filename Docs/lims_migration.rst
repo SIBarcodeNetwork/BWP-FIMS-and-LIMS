@@ -6,7 +6,7 @@ CBOL has generously supported hosting the Laboratory Information Management Syst
 About the LIMS database
 -----------------------
 
-In the overall workflow of the Barcode of Wildlife Project, the LIMS database stores all of the lab-specific data associated with barcode sequencing of samples. A typical lab workflow starts with DNA extraction, then amplification of targeted DNA regions via PCR, then sequencing. Users document the progress of this workflow in Geneious using the specially-designed Biocode plugin, but all supporting data is stored in the LIMS database.
+In the overall workflow of the Barcode of Wildlife Project, the LIMS database stores all of the lab-specific data associated with barcode sequencing of samples. A typical lab workflow starts with DNA extraction, then amplification of targeted DNA regions via PCR, followed by sequencing. The LIMS database also stores final version of sequences submitted to GenBank through this platform. Users document the progress of this workflow in Geneious using the specially-designed Biocode plugin, but all supporting data is stored in the LIMS database.
 
 The LIMS database itself is a relational MySQL database designed by the developers of Geneious for this purpose. It is made up of 20 tables, connected together by several foreign keys. Here is a diagram of the tables in the database:
 
